@@ -20461,7 +20461,7 @@ Source: &lt;a href="http://www.farnell.com/datasheets/391098.pdf"&gt; Data sheet
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0.00508125" drill="0">
+<class number="0" name="default" width="0.2" drill="0">
 <clearance class="0" value="0.2"/>
 </class>
 </classes>
