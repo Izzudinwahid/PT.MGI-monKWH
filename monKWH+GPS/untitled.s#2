@@ -21512,13 +21512,6 @@ Source: &lt;a href="http://www.farnell.com/datasheets/391098.pdf"&gt; Data sheet
 <label x="-81.28" y="-48.26" size="0.8128" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="RST_LAN" class="0">
-<segment>
-<pinref part="U$3" gate="G$1" pin="RST"/>
-<wire x1="-114.3" y1="-43.18" x2="-119.38" y2="-43.18" width="0.1524" layer="91"/>
-<label x="-119.38" y="-43.18" size="0.8128" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
 <net name="SCK_VSPI" class="0">
 <segment>
 <pinref part="MD1" gate="G$0" pin="IO18"/>
