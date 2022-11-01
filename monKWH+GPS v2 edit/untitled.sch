@@ -19842,6 +19842,275 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </deviceset>
 </devicesets>
 </library>
+<library name="RA-01H">
+<packages>
+<package name="XCVR_RA-01H">
+<wire x1="8.03125" y1="8.5" x2="8.03125" y2="-8.5" width="0.127" layer="51"/>
+<wire x1="8.03125" y1="-8.5" x2="-8.03125" y2="-8.5" width="0.127" layer="51"/>
+<wire x1="-8.03125" y1="-8.5" x2="-8.03125" y2="8.5" width="0.127" layer="51"/>
+<wire x1="-8.03125" y1="8.5" x2="8.03125" y2="8.5" width="0.127" layer="51"/>
+<wire x1="8.03125" y1="8.5" x2="8.03125" y2="7.82" width="0.127" layer="21"/>
+<wire x1="8.03125" y1="-8.5" x2="8.03125" y2="-7.82" width="0.127" layer="21"/>
+<wire x1="-8.03125" y1="7.955" x2="-8.03125" y2="8.5" width="0.127" layer="21"/>
+<wire x1="-8.03125" y1="-8.5" x2="-8.03125" y2="-7.82" width="0.127" layer="21"/>
+<wire x1="8.03125" y1="-8.5" x2="-8.03125" y2="-8.5" width="0.127" layer="21"/>
+<wire x1="-8.03125" y1="8.5" x2="8.03125" y2="8.5" width="0.127" layer="21"/>
+<wire x1="-8.7" y1="8.75" x2="-8.7" y2="-8.75" width="0.05" layer="39"/>
+<wire x1="-8.7" y1="-8.75" x2="8.7" y2="-8.75" width="0.05" layer="39"/>
+<wire x1="8.7" y1="-8.75" x2="8.7" y2="8.75" width="0.05" layer="39"/>
+<wire x1="8.7" y1="8.75" x2="-8.7" y2="8.75" width="0.05" layer="39"/>
+<circle x="-9.069" y="7" radius="0.1" width="0.2" layer="21"/>
+<circle x="-9.069" y="7" radius="0.1" width="0.2" layer="51"/>
+<text x="-8.7" y="9.5" size="1.27" layer="25">&gt;NAME</text>
+<text x="-8.7" y="-9.5" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
+<polygon width="0.01" layer="1">
+<vertex x="-6.188" y="7.635"/>
+<vertex x="-6.188" y="6.365"/>
+<vertex x="-7.7238" y="6.365"/>
+<vertex x="-7.7238" y="6.5"/>
+<vertex x="-8.45" y="6.5"/>
+<vertex x="-8.45" y="7.5"/>
+<vertex x="-7.7238" y="7.5"/>
+<vertex x="-7.7238" y="7.635"/>
+</polygon>
+<polygon width="0.01" layer="31">
+<vertex x="-6.188" y="7.635"/>
+<vertex x="-6.188" y="6.365"/>
+<vertex x="-7.7238" y="6.365"/>
+<vertex x="-7.7238" y="6.5"/>
+<vertex x="-8.45" y="6.5"/>
+<vertex x="-8.45" y="7.5"/>
+<vertex x="-7.7238" y="7.5"/>
+<vertex x="-7.7238" y="7.635"/>
+</polygon>
+<polygon width="0.01" layer="29">
+<vertex x="-6.088" y="7.735"/>
+<vertex x="-6.088" y="6.265"/>
+<vertex x="-7.8238" y="6.265"/>
+<vertex x="-7.8238" y="6.4"/>
+<vertex x="-8.55" y="6.4"/>
+<vertex x="-8.55" y="7.6"/>
+<vertex x="-7.8238" y="7.6"/>
+<vertex x="-7.8238" y="7.735"/>
+</polygon>
+<smd name="1" x="-7.6821" y="7" dx="1.5358" dy="1" layer="1" stop="no" cream="no"/>
+<smd name="2" x="-7.6821" y="5" dx="1.5358" dy="1" layer="1"/>
+<smd name="3" x="-7.6821" y="3" dx="1.5358" dy="1" layer="1"/>
+<smd name="4" x="-7.6821" y="1" dx="1.5358" dy="1" layer="1"/>
+<smd name="5" x="-7.6821" y="-1" dx="1.5358" dy="1" layer="1"/>
+<smd name="6" x="-7.6821" y="-3" dx="1.5358" dy="1" layer="1"/>
+<smd name="7" x="-7.6821" y="-5" dx="1.5358" dy="1" layer="1"/>
+<smd name="8" x="-7.6821" y="-7" dx="1.5358" dy="1" layer="1"/>
+<smd name="9" x="7.6821" y="-7" dx="1.5358" dy="1" layer="1"/>
+<smd name="10" x="7.6821" y="-5" dx="1.5358" dy="1" layer="1"/>
+<smd name="11" x="7.6821" y="-3" dx="1.5358" dy="1" layer="1"/>
+<smd name="12" x="7.6821" y="-1" dx="1.5358" dy="1" layer="1"/>
+<smd name="13" x="7.6821" y="1" dx="1.5358" dy="1" layer="1"/>
+<smd name="14" x="7.6821" y="3" dx="1.5358" dy="1" layer="1"/>
+<smd name="15" x="7.6821" y="5" dx="1.5358" dy="1" layer="1"/>
+<smd name="16" x="7.6821" y="7" dx="1.5358" dy="1" layer="1"/>
+</package>
+</packages>
+<symbols>
+<symbol name="RA-01H">
+<wire x1="-12.7" y1="15.24" x2="-12.7" y2="-15.24" width="0.254" layer="94"/>
+<wire x1="-12.7" y1="-15.24" x2="12.7" y2="-15.24" width="0.254" layer="94"/>
+<wire x1="12.7" y1="-15.24" x2="12.7" y2="15.24" width="0.254" layer="94"/>
+<wire x1="12.7" y1="15.24" x2="-12.7" y2="15.24" width="0.254" layer="94"/>
+<text x="-12.7" y="16.256" size="1.778" layer="95">&gt;NAME</text>
+<text x="-12.7" y="-17.78" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="ANT" x="17.78" y="7.62" length="middle" rot="R180"/>
+<pin name="GND" x="17.78" y="-12.7" length="middle" direction="pwr" rot="R180"/>
+<pin name="3.3V" x="17.78" y="12.7" length="middle" direction="pwr" rot="R180"/>
+<pin name="RESET" x="-17.78" y="7.62" length="middle" direction="in"/>
+<pin name="DIO0" x="-17.78" y="2.54" length="middle"/>
+<pin name="SCK" x="17.78" y="2.54" length="middle" direction="in" function="clk" rot="R180"/>
+<pin name="MISO" x="17.78" y="-5.08" length="middle" direction="out" rot="R180"/>
+<pin name="MOSI" x="17.78" y="-2.54" length="middle" direction="in" rot="R180"/>
+<pin name="NSS" x="17.78" y="0" length="middle" direction="in" rot="R180"/>
+<pin name="DIO1" x="-17.78" y="0" length="middle"/>
+<pin name="DIO2" x="-17.78" y="-2.54" length="middle"/>
+<pin name="DIO3" x="-17.78" y="-5.08" length="middle"/>
+<pin name="DIO4" x="-17.78" y="-7.62" length="middle"/>
+<pin name="DIO5" x="-17.78" y="-10.16" length="middle"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="RA-01H" prefix="U">
+<description>Ai-Thinker Lora Series Module   &lt;a href="https://pricing.snapeda.com/parts/RA-01H/AI-Thinker/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="RA-01H" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="XCVR_RA-01H">
+<connects>
+<connect gate="G$1" pin="3.3V" pad="3"/>
+<connect gate="G$1" pin="ANT" pad="1"/>
+<connect gate="G$1" pin="DIO0" pad="5"/>
+<connect gate="G$1" pin="DIO1" pad="6"/>
+<connect gate="G$1" pin="DIO2" pad="7"/>
+<connect gate="G$1" pin="DIO3" pad="8"/>
+<connect gate="G$1" pin="DIO4" pad="10"/>
+<connect gate="G$1" pin="DIO5" pad="11"/>
+<connect gate="G$1" pin="GND" pad="2 9 16"/>
+<connect gate="G$1" pin="MISO" pad="13"/>
+<connect gate="G$1" pin="MOSI" pad="14"/>
+<connect gate="G$1" pin="NSS" pad="15"/>
+<connect gate="G$1" pin="RESET" pad="4"/>
+<connect gate="G$1" pin="SCK" pad="12"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="AVAILABILITY" value="In Stock"/>
+<attribute name="DESCRIPTION" value=" General ISM &lt; 1GHz LoRa™ Transceiver Module 803MHz ~ 930MHz Antenna Not Included Surface Mount "/>
+<attribute name="MF" value="AI-Thinker"/>
+<attribute name="MP" value="RA-01H"/>
+<attribute name="PACKAGE" value="Package "/>
+<attribute name="PRICE" value="None"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/RA-01H/?ref=eda"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="EYR_Conectores">
+<description>Dispositivos que se relacionen con conectores&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;12/02/2015: Se agredo el jack de audio de 3.5mm.
+&lt;li&gt;08/11/2016: Se agrego conector mini-USB y RL-12.
+&lt;li&gt;08/02/2017: Se agrego los conectores ICSP.
+&lt;li&gt;02/04/2019: Se agrego FTDI conector de 6 pines.
+&lt;li&gt;03/04/2019: Se agrego jack de alimentación PJ-202A y jack de audio SJ1-3513N de 3.5mm.
+&lt;li&gt;15/04/2019: Se agrego 1x1 Pin Header.
+&lt;li&gt;20/10/2019: Se agrego 1x5 Pin Header angulo 90°, Female Header 1x16 y Pin Header 1x26.
+&lt;li&gt;27/05/2020: Se agrego pin header 2x2 y jumpers SMD.
+&lt;li&gt;16/10/2020: Se agrego el conector B2B-XH-A(LF)(SN) y el 5555164.
+&lt;li&gt;18/03/2021: Se agrego pin headers MA03-2 y MA04-2, se agrandaron sus pad para reforzarlos.
+&lt;li&gt;02/09/2022: Se agrego conector MINI-USB-UX60SC-MB
+&lt;/ul&gt;
+
+Librerías creadas y editadas a conveniencia propia, pero disponible para ustedes por si desean utilizarlas.&lt;p&gt;
+
+&lt;b&gt;Descarga de responsabilidad:&lt;/b&gt; Es necesario mencionar que mis librerias son sólo para fines didacticos y en ningún momento se puede garantizar que sea exacta, funcional, completa o actualizada. Por lo tanto no asumo ninguna responsabilidad que se pueda derivar por el mal uso de la información, así que utilícela de manera responsable y bajo su propio riesgo.
+
+&lt;hr&gt;
+&lt;b&gt;Author: &lt;/b&gt; Pedro Sánchez Ramírez (MrChunckuee)&lt;br&gt;
+&lt;b&gt;E-mail: &lt;/b&gt; mrchunckuee.psr@gmail.com&lt;br&gt;
+&lt;b&gt;Blog: &lt;a href = "http://mrchunckuee.blogspot.com/"&gt; Electrónica &amp; Robótica&lt;/a&gt;&lt;/b&gt;&lt;p&gt;</description>
+<packages>
+<package name="5555164">
+<description>&lt;b&gt;RJ45 Low Profile&lt;/b&gt; No Shield&lt;p&gt;
+
+Shttps://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=5555164&amp;DocType=Customer+Drawing&amp;DocLang=English&amp;PartCntxt=5555164-1&amp;DocFormat=pdf</description>
+<wire x1="-7.527" y1="10.619" x2="7.527" y2="10.619" width="0.2032" layer="21"/>
+<wire x1="7.527" y1="-7.882" x2="-7.527" y2="-7.882" width="0.2032" layer="21"/>
+<wire x1="-7.527" y1="-7.882" x2="-7.527" y2="10.619" width="0.2032" layer="21"/>
+<wire x1="7.527" y1="10.619" x2="7.527" y2="-7.882" width="0.2032" layer="21"/>
+<pad name="4" x="-0.635" y="8.89" drill="0.9" diameter="1.7"/>
+<pad name="3" x="-1.905" y="6.35" drill="0.9" diameter="1.7"/>
+<pad name="2" x="-3.175" y="8.89" drill="0.9" diameter="1.7"/>
+<pad name="5" x="0.635" y="6.35" drill="0.9" diameter="1.7"/>
+<pad name="1" x="-4.445" y="6.35" drill="0.9" diameter="1.7"/>
+<pad name="6" x="1.905" y="8.89" drill="0.9" diameter="1.7"/>
+<pad name="7" x="3.175" y="6.35" drill="0.9" diameter="1.7"/>
+<pad name="8" x="4.445" y="8.89" drill="0.9" diameter="1.7"/>
+<text x="-9.525" y="-0.635" size="1.778" layer="25" rot="R90">&gt;NAME</text>
+<text x="-5.715" y="2.54" size="1.778" layer="27">&gt;VALUE</text>
+<hole x="-5.715" y="0" drill="3.2512"/>
+<hole x="5.715" y="0" drill="3.2512"/>
+</package>
+</packages>
+<symbols>
+<symbol name="JACK8">
+<wire x1="1.524" y1="8.128" x2="0" y2="8.128" width="0.254" layer="94"/>
+<wire x1="0" y1="8.128" x2="0" y2="7.112" width="0.254" layer="94"/>
+<wire x1="0" y1="7.112" x2="1.524" y2="7.112" width="0.254" layer="94"/>
+<wire x1="1.524" y1="5.588" x2="0" y2="5.588" width="0.254" layer="94"/>
+<wire x1="0" y1="5.588" x2="0" y2="4.572" width="0.254" layer="94"/>
+<wire x1="0" y1="4.572" x2="1.524" y2="4.572" width="0.254" layer="94"/>
+<wire x1="1.524" y1="3.048" x2="0" y2="3.048" width="0.254" layer="94"/>
+<wire x1="0" y1="3.048" x2="0" y2="2.032" width="0.254" layer="94"/>
+<wire x1="0" y1="2.032" x2="1.524" y2="2.032" width="0.254" layer="94"/>
+<wire x1="1.524" y1="0.508" x2="0" y2="0.508" width="0.254" layer="94"/>
+<wire x1="0" y1="0.508" x2="0" y2="-0.508" width="0.254" layer="94"/>
+<wire x1="0" y1="-0.508" x2="1.524" y2="-0.508" width="0.254" layer="94"/>
+<wire x1="1.524" y1="-2.032" x2="0" y2="-2.032" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.032" x2="0" y2="-3.048" width="0.254" layer="94"/>
+<wire x1="0" y1="-3.048" x2="1.524" y2="-3.048" width="0.254" layer="94"/>
+<wire x1="1.524" y1="-4.572" x2="0" y2="-4.572" width="0.254" layer="94"/>
+<wire x1="0" y1="-4.572" x2="0" y2="-5.588" width="0.254" layer="94"/>
+<wire x1="0" y1="-5.588" x2="1.524" y2="-5.588" width="0.254" layer="94"/>
+<wire x1="3.448" y1="-4.232" x2="5.988" y2="-4.232" width="0.1998" layer="94"/>
+<wire x1="5.988" y1="-4.232" x2="5.988" y2="-2.454" width="0.1998" layer="94"/>
+<wire x1="5.988" y1="-2.454" x2="7.004" y2="-2.454" width="0.1998" layer="94"/>
+<wire x1="7.004" y1="-2.454" x2="7.004" y2="-0.422" width="0.1998" layer="94"/>
+<wire x1="7.004" y1="-0.422" x2="5.988" y2="-0.422" width="0.1998" layer="94"/>
+<wire x1="5.988" y1="-0.422" x2="5.988" y2="1.356" width="0.1998" layer="94"/>
+<wire x1="5.988" y1="1.356" x2="3.448" y2="1.356" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="1.356" x2="3.448" y2="0.34" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="0.34" x2="3.448" y2="-0.168" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-0.168" x2="3.448" y2="-0.676" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-0.676" x2="3.448" y2="-1.184" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-1.184" x2="3.448" y2="-1.692" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-1.692" x2="3.448" y2="-2.2" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-2.2" x2="3.448" y2="-2.708" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-2.708" x2="3.448" y2="-3.216" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-3.216" x2="3.448" y2="-4.232" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="0.34" x2="4.21" y2="0.34" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-0.168" x2="4.21" y2="-0.168" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-0.676" x2="4.21" y2="-0.676" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-1.184" x2="4.21" y2="-1.184" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-1.692" x2="4.21" y2="-1.692" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-2.2" x2="4.21" y2="-2.2" width="0.1998" layer="94"/>
+<wire x1="1.524" y1="-7.112" x2="0" y2="-7.112" width="0.254" layer="94"/>
+<wire x1="0" y1="-7.112" x2="0" y2="-8.128" width="0.254" layer="94"/>
+<wire x1="0" y1="-8.128" x2="1.524" y2="-8.128" width="0.254" layer="94"/>
+<wire x1="1.524" y1="-9.652" x2="0" y2="-9.652" width="0.254" layer="94"/>
+<wire x1="0" y1="-9.652" x2="0" y2="-10.668" width="0.254" layer="94"/>
+<wire x1="0" y1="-10.668" x2="1.524" y2="-10.668" width="0.254" layer="94"/>
+<wire x1="3.448" y1="-2.708" x2="4.21" y2="-2.708" width="0.1998" layer="94"/>
+<wire x1="3.448" y1="-3.216" x2="4.21" y2="-3.216" width="0.1998" layer="94"/>
+<text x="-2.54" y="10.16" size="1.778" layer="95">&gt;NAME</text>
+<text x="-2.54" y="-13.208" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="1" x="-2.54" y="7.62" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="2" x="-2.54" y="5.08" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="3" x="-2.54" y="2.54" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="4" x="-2.54" y="0" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="5" x="-2.54" y="-2.54" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="6" x="-2.54" y="-5.08" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="7" x="-2.54" y="-7.62" visible="pad" length="short" direction="pas" swaplevel="1"/>
+<pin name="8" x="-2.54" y="-10.16" visible="pad" length="short" direction="pas" swaplevel="1"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="5555164" prefix="X" uservalue="yes">
+<description>RJ45 Conectores Ethernet 8 PCB &lt;p&gt;
+https://www.mouser.mx/ProductDetail/TE-Connectivity-AMP/5555164-1?qs=BcfjnG7NVaWfeEYSWegYjg%3D%3D</description>
+<gates>
+<gate name="G$1" symbol="JACK8" x="0" y="0"/>
+</gates>
+<devices>
+<device name="-1" package="5555164">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -19922,15 +20191,13 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <part name="C25" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0505" package3d_urn="urn:adsk.eagle:package:23402/2" value="10uF/16v"/>
 <part name="C26" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0505" package3d_urn="urn:adsk.eagle:package:23402/2" value="10uF/16V"/>
 <part name="C27" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0505" package3d_urn="urn:adsk.eagle:package:23402/2" value="0.1uF/16V"/>
-<part name="C28" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0505" package3d_urn="urn:adsk.eagle:package:23402/2" value="10uF/16V"/>
-<part name="C29" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0505" package3d_urn="urn:adsk.eagle:package:23402/2" value="0.1uf/16V"/>
 <part name="D1" library="SML-LXT0805IW-TR" deviceset="SML-LXT0805IW-TR" device=""/>
 <part name="D6" library="SML-LXT0805IW-TR" deviceset="SML-LXT0805IW-TR" device=""/>
 <part name="J2" library="con-jack" library_urn="urn:adsk.eagle:library:154" deviceset="DCJ0202" device="" package3d_urn="urn:adsk.eagle:package:7491/1"/>
-<part name="PS1" library="PBO-5C-5" deviceset="PBO-5C-5" device=""/>
-<part name="C13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2"/>
-<part name="C15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2"/>
-<part name="C16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2"/>
+<part name="PS1" library="PBO-5C-5" deviceset="PBO-5C-5" device="" override_package3d_urn="urn:adsk.eagle:package:37853013/2" override_package_urn="urn:adsk.eagle:footprint:37853014/1"/>
+<part name="C13" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="100nf"/>
+<part name="C15" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="100nf"/>
+<part name="C16" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="100nf"/>
 <part name="C17" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2"/>
 <part name="RX_MK7" library="Ai_Connectors" deviceset="1X02-SJ-NO" device=""/>
 <part name="TX_MK7" library="Ai_Connectors" deviceset="1X02-SJ-NO" device=""/>
@@ -19938,6 +20205,9 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <part name="GND-MK7" library="Ai_Connectors" deviceset="1X02-SJ-NO" device=""/>
 <part name="GND_MK10" library="Ai_Connectors" deviceset="1X02-SJ-NO" device=""/>
 <part name="RX_MK10" library="Ai_Connectors" deviceset="1X02-SJ-NO" device=""/>
+<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E2.5-7" package3d_urn="urn:adsk.eagle:package:23345/1"/>
+<part name="U6" library="RA-01H" deviceset="RA-01H" device=""/>
+<part name="X2" library="EYR_Conectores" deviceset="5555164" device="-1"/>
 </parts>
 <sheets>
 <sheet>
@@ -19956,10 +20226,10 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <text x="-15.24" y="71.12" size="6.4516" layer="94" ratio="18">AUTO RESET</text>
 <wire x1="-20.32" y1="7.62" x2="48.26" y2="7.62" width="0.6096" layer="94"/>
 <wire x1="48.26" y1="7.62" x2="48.26" y2="83.82" width="0.6096" layer="94"/>
-<text x="-12.7" y="-2.54" size="6.4516" layer="94" ratio="18">LoRa niceRF</text>
-<wire x1="-20.32" y1="-20.32" x2="-20.32" y2="-35.56" width="0.6096" layer="94"/>
-<wire x1="-20.32" y1="-35.56" x2="48.26" y2="-35.56" width="0.6096" layer="94"/>
-<wire x1="48.26" y1="-35.56" x2="48.26" y2="-20.32" width="0.6096" layer="94"/>
+<text x="-12.7" y="0" size="6.4516" layer="94" ratio="18">LoRa niceRF</text>
+<wire x1="-20.32" y1="-20.32" x2="-20.32" y2="-43.18" width="0.6096" layer="94"/>
+<wire x1="-20.32" y1="-43.18" x2="48.26" y2="-43.18" width="0.6096" layer="94"/>
+<wire x1="48.26" y1="-43.18" x2="48.26" y2="-20.32" width="0.6096" layer="94"/>
 <wire x1="48.26" y1="-20.32" x2="48.26" y2="7.62" width="0.6096" layer="94"/>
 <wire x1="48.26" y1="-20.32" x2="137.16" y2="-20.32" width="0.6096" layer="94"/>
 <wire x1="-68.58" y1="-20.32" x2="-68.58" y2="-71.12" width="0.6096" layer="94"/>
@@ -20005,17 +20275,17 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <attribute name="NAME" x="-33.401" y="148.844" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="-28.321" y="141.224" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R3" gate="G$1" x="-43.18" y="-38.1" smashed="yes" rot="R90">
-<attribute name="NAME" x="-44.6786" y="-41.91" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-39.878" y="-41.91" size="1.778" layer="96" rot="R90"/>
+<instance part="R3" gate="G$1" x="-88.9" y="-93.98" smashed="yes" rot="R90">
+<attribute name="NAME" x="-90.3986" y="-97.79" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-85.598" y="-97.79" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R4" gate="G$1" x="-63.5" y="-38.1" smashed="yes" rot="R90">
-<attribute name="NAME" x="-64.9986" y="-41.91" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-60.198" y="-41.91" size="1.778" layer="96" rot="R90"/>
+<instance part="R4" gate="G$1" x="-111.76" y="-91.44" smashed="yes" rot="R90">
+<attribute name="NAME" x="-113.2586" y="-95.25" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-108.458" y="-95.25" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R5" gate="G$1" x="-58.42" y="-38.1" smashed="yes" rot="R90">
-<attribute name="NAME" x="-59.9186" y="-41.91" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-55.118" y="-41.91" size="1.778" layer="96" rot="R90"/>
+<instance part="R5" gate="G$1" x="-106.68" y="-91.44" smashed="yes" rot="R90">
+<attribute name="NAME" x="-108.1786" y="-95.25" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-103.378" y="-95.25" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="GND3" gate="1" x="-50.8" y="116.84" smashed="yes">
 <attribute name="VALUE" x="-53.34" y="114.3" size="1.778" layer="96"/>
@@ -20043,8 +20313,8 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <attribute name="NAME" x="93.98" y="165.1" size="1.778" layer="95"/>
 <attribute name="VALUE" x="93.98" y="158.75" size="1.778" layer="96"/>
 </instance>
-<instance part="P+1" gate="VCC" x="-60.96" y="-25.4" smashed="yes">
-<attribute name="VALUE" x="-63.5" y="-27.94" size="1.778" layer="96" rot="R90"/>
+<instance part="P+1" gate="VCC" x="-109.22" y="-78.74" smashed="yes">
+<attribute name="VALUE" x="-111.76" y="-81.28" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="P+3" gate="VCC" x="-76.2" y="116.84" smashed="yes" rot="R180">
 <attribute name="VALUE" x="-73.66" y="119.38" size="1.778" layer="96" rot="R270"/>
@@ -20074,8 +20344,8 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <instance part="GND14" gate="1" x="-81.28" y="-60.96" smashed="yes">
 <attribute name="VALUE" x="-83.82" y="-63.5" size="1.778" layer="96"/>
 </instance>
-<instance part="GND20" gate="1" x="-35.56" y="-66.04" smashed="yes">
-<attribute name="VALUE" x="-38.1" y="-68.58" size="1.778" layer="96"/>
+<instance part="GND20" gate="1" x="-81.28" y="-121.92" smashed="yes">
+<attribute name="VALUE" x="-83.82" y="-124.46" size="1.778" layer="96"/>
 </instance>
 <instance part="C14" gate="G$1" x="7.62" y="33.02" smashed="yes" rot="R270">
 <attribute name="NAME" x="8.001" y="31.496" size="1.778" layer="95" rot="R270"/>
@@ -20107,13 +20377,13 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <attribute name="NAME" x="10.795" y="26.67" size="1.778" layer="95"/>
 <attribute name="VALUE" x="15.875" y="24.13" size="1.778" layer="96"/>
 </instance>
-<instance part="R12" gate="G$1" x="-27.94" y="-40.64" smashed="yes" rot="R90">
-<attribute name="NAME" x="-29.4386" y="-44.45" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-24.638" y="-44.45" size="1.778" layer="96" rot="R90"/>
+<instance part="R12" gate="G$1" x="-73.66" y="-96.52" smashed="yes" rot="R90">
+<attribute name="NAME" x="-75.1586" y="-100.33" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-70.358" y="-100.33" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R13" gate="G$1" x="-22.86" y="-40.64" smashed="yes" rot="R90">
-<attribute name="NAME" x="-24.3586" y="-44.45" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-19.558" y="-44.45" size="1.778" layer="96" rot="R90"/>
+<instance part="R13" gate="G$1" x="-68.58" y="-96.52" smashed="yes" rot="R90">
+<attribute name="NAME" x="-70.0786" y="-100.33" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-65.278" y="-100.33" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="J3" gate="G$1" x="-99.06" y="180.34" smashed="yes">
 <attribute name="NAME" x="-106.688590625" y="188.6043" size="1.78" layer="95"/>
@@ -20137,17 +20407,17 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <attribute name="NAME" x="116.84" y="177.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="110.49" y="177.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="POWER" gate="G$1" x="-43.18" y="-53.34" smashed="yes">
-<attribute name="NAME" x="-39.624" y="-57.912" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-37.465" y="-57.912" size="1.778" layer="96" rot="R90"/>
+<instance part="POWER" gate="G$1" x="-88.9" y="-109.22" smashed="yes">
+<attribute name="NAME" x="-85.344" y="-113.792" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-83.185" y="-113.792" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="PROSES" gate="G$1" x="-27.94" y="-53.34" smashed="yes">
-<attribute name="NAME" x="-24.384" y="-57.912" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-22.225" y="-57.912" size="1.778" layer="96" rot="R90"/>
+<instance part="PROSES" gate="G$1" x="-73.66" y="-109.22" smashed="yes">
+<attribute name="NAME" x="-70.104" y="-113.792" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-67.945" y="-113.792" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="WARNING" gate="G$1" x="-22.86" y="-52.07" smashed="yes">
-<attribute name="NAME" x="-19.304" y="-56.642" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-17.145" y="-56.642" size="1.778" layer="96" rot="R90"/>
+<instance part="WARNING" gate="G$1" x="-68.58" y="-107.95" smashed="yes">
+<attribute name="NAME" x="-65.024" y="-112.522" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-62.865" y="-112.522" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="J1" gate="G$1" x="7.62" y="-30.48" smashed="yes">
 <attribute name="NAME" x="3.80143125" y="-26.40686875" size="1.27285" layer="95"/>
@@ -20221,21 +20491,13 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <attribute name="NAME" x="109.093" y="34.7726" size="1.778" layer="95"/>
 <attribute name="VALUE" x="109.093" y="29.6926" size="1.778" layer="96"/>
 </instance>
-<instance part="C28" gate="G$1" x="115.57" y="36.83" smashed="yes">
-<attribute name="NAME" x="116.713" y="37.3126" size="1.778" layer="95"/>
-<attribute name="VALUE" x="116.713" y="32.2326" size="1.778" layer="96"/>
+<instance part="D1" gate="G$1" x="-111.76" y="-109.22" smashed="yes" rot="R90">
+<attribute name="NAME" x="-115.83026875" y="-111.25513125" size="1.780740625" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-107.94685" y="-111.25368125" size="1.77946875" layer="96" rot="R90"/>
 </instance>
-<instance part="C29" gate="G$1" x="121.92" y="36.83" smashed="yes">
-<attribute name="NAME" x="123.063" y="37.3126" size="1.778" layer="95"/>
-<attribute name="VALUE" x="123.063" y="32.2326" size="1.778" layer="96"/>
-</instance>
-<instance part="D1" gate="G$1" x="-63.5" y="-55.88" smashed="yes" rot="R90">
-<attribute name="NAME" x="-67.57026875" y="-57.91513125" size="1.780740625" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-59.68685" y="-57.91368125" size="1.77946875" layer="96" rot="R90"/>
-</instance>
-<instance part="D6" gate="G$1" x="-58.42" y="-55.88" smashed="yes" rot="R90">
-<attribute name="NAME" x="-62.49026875" y="-57.91513125" size="1.780740625" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-54.60685" y="-57.91368125" size="1.77946875" layer="96" rot="R90"/>
+<instance part="D6" gate="G$1" x="-106.68" y="-109.22" smashed="yes" rot="R90">
+<attribute name="NAME" x="-110.75026875" y="-111.25513125" size="1.780740625" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-102.86685" y="-111.25368125" size="1.77946875" layer="96" rot="R90"/>
 </instance>
 <instance part="J2" gate="G$1" x="77.47" y="160.02" smashed="yes">
 <attribute name="NAME" x="74.93" y="163.83" size="1.778" layer="95"/>
@@ -20261,23 +20523,35 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <attribute name="NAME" x="125.476" y="-38.481" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="125.476" y="-33.401" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="RX_MK7" gate="1" x="7.62" y="-76.2" smashed="yes">
-<attribute name="NAME" x="9.398" y="-75.946" size="1.524" layer="95" font="vector" ratio="10"/>
+<instance part="RX_MK7" gate="1" x="73.66" y="-121.92" smashed="yes">
+<attribute name="NAME" x="75.438" y="-121.666" size="1.524" layer="95" font="vector" ratio="10"/>
 </instance>
-<instance part="TX_MK7" gate="1" x="7.62" y="-73.66" smashed="yes">
-<attribute name="NAME" x="9.398" y="-73.406" size="1.524" layer="95" font="vector" ratio="10"/>
+<instance part="TX_MK7" gate="1" x="73.66" y="-119.38" smashed="yes">
+<attribute name="NAME" x="75.438" y="-119.126" size="1.524" layer="95" font="vector" ratio="10"/>
 </instance>
-<instance part="TX_MK10" gate="1" x="7.62" y="-58.42" smashed="yes">
-<attribute name="NAME" x="9.398" y="-58.166" size="1.524" layer="95" font="vector" ratio="10"/>
+<instance part="TX_MK10" gate="1" x="73.66" y="-104.14" smashed="yes">
+<attribute name="NAME" x="75.438" y="-103.886" size="1.524" layer="95" font="vector" ratio="10"/>
 </instance>
-<instance part="GND-MK7" gate="1" x="7.62" y="-71.12" smashed="yes">
-<attribute name="NAME" x="9.398" y="-70.866" size="1.524" layer="95" font="vector" ratio="10"/>
+<instance part="GND-MK7" gate="1" x="73.66" y="-116.84" smashed="yes">
+<attribute name="NAME" x="75.438" y="-116.586" size="1.524" layer="95" font="vector" ratio="10"/>
 </instance>
-<instance part="GND_MK10" gate="1" x="7.62" y="-55.88" smashed="yes">
-<attribute name="NAME" x="9.398" y="-55.626" size="1.524" layer="95" font="vector" ratio="10"/>
+<instance part="GND_MK10" gate="1" x="73.66" y="-101.6" smashed="yes">
+<attribute name="NAME" x="75.438" y="-101.346" size="1.524" layer="95" font="vector" ratio="10"/>
 </instance>
-<instance part="RX_MK10" gate="1" x="7.62" y="-60.96" smashed="yes">
-<attribute name="NAME" x="9.398" y="-60.706" size="1.524" layer="95" font="vector" ratio="10"/>
+<instance part="RX_MK10" gate="1" x="73.66" y="-106.68" smashed="yes">
+<attribute name="NAME" x="75.438" y="-106.426" size="1.524" layer="95" font="vector" ratio="10"/>
+</instance>
+<instance part="C4" gate="G$1" x="53.34" y="175.26" smashed="yes" rot="R180">
+<attribute name="NAME" x="57.277" y="174.7774" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="52.197" y="179.8574" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="U6" gate="G$1" x="-17.78" y="-63.5" smashed="yes">
+<attribute name="NAME" x="-30.48" y="-47.244" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-30.48" y="-81.28" size="1.778" layer="96"/>
+</instance>
+<instance part="X2" gate="G$1" x="-20.32" y="-104.14" smashed="yes">
+<attribute name="NAME" x="-22.86" y="-93.98" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-22.86" y="-117.348" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -20389,8 +20663,9 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <junction x="35.56" y="-25.4"/>
 <pinref part="J1" gate="G$1" pin="GND"/>
 <wire x1="35.56" y1="-26.67" x2="35.56" y2="-25.4" width="0.1524" layer="91"/>
-<wire x1="-2.54" y1="-33.02" x2="29.21" y2="-33.02" width="0.1524" layer="91"/>
-<wire x1="29.21" y1="-33.02" x2="29.21" y2="-26.67" width="0.1524" layer="91"/>
+<wire x1="-2.54" y1="-33.02" x2="-2.54" y2="-38.1" width="0.1524" layer="91"/>
+<wire x1="-2.54" y1="-38.1" x2="29.21" y2="-38.1" width="0.1524" layer="91"/>
+<wire x1="29.21" y1="-38.1" x2="29.21" y2="-26.67" width="0.1524" layer="91"/>
 <wire x1="29.21" y1="-26.67" x2="35.56" y2="-26.67" width="0.1524" layer="91"/>
 <junction x="35.56" y="-26.67"/>
 </segment>
@@ -20412,17 +20687,17 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </segment>
 <segment>
 <pinref part="GND20" gate="1" pin="GND"/>
-<wire x1="-43.18" y1="-63.5" x2="-35.56" y2="-63.5" width="0.1524" layer="91"/>
-<junction x="-35.56" y="-63.5"/>
-<wire x1="-35.56" y1="-63.5" x2="-27.94" y2="-63.5" width="0.1524" layer="91"/>
-<wire x1="-22.86" y1="-63.5" x2="-27.94" y2="-63.5" width="0.1524" layer="91"/>
-<junction x="-27.94" y="-63.5"/>
+<wire x1="-88.9" y1="-119.38" x2="-81.28" y2="-119.38" width="0.1524" layer="91"/>
+<junction x="-81.28" y="-119.38"/>
+<wire x1="-81.28" y1="-119.38" x2="-73.66" y2="-119.38" width="0.1524" layer="91"/>
+<wire x1="-68.58" y1="-119.38" x2="-73.66" y2="-119.38" width="0.1524" layer="91"/>
+<junction x="-73.66" y="-119.38"/>
 <pinref part="POWER" gate="G$1" pin="C"/>
-<wire x1="-43.18" y1="-63.5" x2="-43.18" y2="-58.42" width="0.1524" layer="91"/>
+<wire x1="-88.9" y1="-119.38" x2="-88.9" y2="-114.3" width="0.1524" layer="91"/>
 <pinref part="PROSES" gate="G$1" pin="C"/>
-<wire x1="-27.94" y1="-63.5" x2="-27.94" y2="-58.42" width="0.1524" layer="91"/>
+<wire x1="-73.66" y1="-119.38" x2="-73.66" y2="-114.3" width="0.1524" layer="91"/>
 <pinref part="WARNING" gate="G$1" pin="C"/>
-<wire x1="-22.86" y1="-57.15" x2="-22.86" y2="-63.5" width="0.1524" layer="91"/>
+<wire x1="-68.58" y1="-113.03" x2="-68.58" y2="-119.38" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND2" gate="1" pin="GND"/>
@@ -20522,22 +20797,21 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="107.95" y1="29.21" x2="107.95" y2="17.78" width="0.1524" layer="91"/>
 <junction x="107.95" y="17.78"/>
 <pinref part="C27" gate="G$1" pin="-"/>
-<pinref part="C28" gate="G$1" pin="-"/>
-<pinref part="C29" gate="G$1" pin="-"/>
 </segment>
 <segment>
-<wire x1="21.59" y1="-71.12" x2="20.32" y2="-71.12" width="0.1524" layer="91"/>
 <pinref part="GND-MK7" gate="1" pin="2"/>
-<label x="25.4" y="-71.12" size="1.016" layer="95" xref="yes"/>
-<wire x1="20.32" y1="-71.12" x2="12.7" y2="-71.12" width="0.1524" layer="91"/>
-<wire x1="21.59" y1="-71.12" x2="25.4" y2="-71.12" width="0.1524" layer="91"/>
+<label x="91.44" y="-116.84" size="1.016" layer="95" xref="yes"/>
+<wire x1="91.44" y1="-116.84" x2="78.74" y2="-116.84" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="21.59" y1="-55.88" x2="22.86" y2="-55.88" width="0.1524" layer="91"/>
 <pinref part="GND_MK10" gate="1" pin="2"/>
-<wire x1="22.86" y1="-55.88" x2="25.4" y2="-55.88" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="-55.88" x2="21.59" y2="-55.88" width="0.1524" layer="91"/>
-<label x="25.4" y="-55.88" size="1.016" layer="95" xref="yes"/>
+<wire x1="78.74" y1="-101.6" x2="91.44" y2="-101.6" width="0.1524" layer="91"/>
+<label x="91.44" y="-101.6" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<wire x1="2.54" y1="-76.2" x2="0" y2="-76.2" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="GND"/>
+<label x="2.54" y="-76.2" size="0.8128" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="USB_P" class="0">
@@ -20653,8 +20927,8 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </segment>
 <segment>
 <pinref part="D6" gate="G$1" pin="C"/>
-<wire x1="-58.42" y1="-63.5" x2="-58.42" y2="-66.04" width="0.1524" layer="91"/>
-<label x="-58.42" y="-66.04" size="1.016" layer="95" rot="R270" xref="yes"/>
+<wire x1="-106.68" y1="-116.84" x2="-106.68" y2="-119.38" width="0.1524" layer="91"/>
+<label x="-106.68" y="-119.38" size="1.016" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="TX" class="0">
@@ -20670,21 +20944,21 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </segment>
 <segment>
 <pinref part="D1" gate="G$1" pin="C"/>
-<wire x1="-63.5" y1="-63.5" x2="-63.5" y2="-66.04" width="0.1524" layer="91"/>
-<label x="-63.5" y="-66.04" size="1.016" layer="95" rot="R270" xref="yes"/>
+<wire x1="-111.76" y1="-116.84" x2="-111.76" y2="-119.38" width="0.1524" layer="91"/>
+<label x="-111.76" y="-119.38" size="1.016" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
 <pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="-63.5" y1="-43.18" x2="-63.5" y2="-45.72" width="0.1524" layer="91"/>
+<wire x1="-111.76" y1="-96.52" x2="-111.76" y2="-99.06" width="0.1524" layer="91"/>
 <pinref part="D1" gate="G$1" pin="A"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="1"/>
-<wire x1="-58.42" y1="-43.18" x2="-58.42" y2="-45.72" width="0.1524" layer="91"/>
+<wire x1="-106.68" y1="-96.52" x2="-106.68" y2="-99.06" width="0.1524" layer="91"/>
 <pinref part="D6" gate="G$1" pin="A"/>
 </segment>
 </net>
@@ -20774,11 +21048,11 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <segment>
 <pinref part="R4" gate="G$1" pin="2"/>
 <pinref part="R5" gate="G$1" pin="2"/>
-<wire x1="-63.5" y1="-33.02" x2="-60.96" y2="-33.02" width="0.1524" layer="91"/>
-<wire x1="-60.96" y1="-33.02" x2="-58.42" y2="-33.02" width="0.1524" layer="91"/>
-<junction x="-60.96" y="-33.02"/>
+<wire x1="-111.76" y1="-86.36" x2="-109.22" y2="-86.36" width="0.1524" layer="91"/>
+<wire x1="-109.22" y1="-86.36" x2="-106.68" y2="-86.36" width="0.1524" layer="91"/>
+<junction x="-109.22" y="-86.36"/>
 <pinref part="P+1" gate="VCC" pin="VCC"/>
-<wire x1="-60.96" y1="-27.94" x2="-60.96" y2="-33.02" width="0.1524" layer="91"/>
+<wire x1="-109.22" y1="-81.28" x2="-109.22" y2="-86.36" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="1"/>
@@ -20811,7 +21085,7 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <net name="N$3" class="0">
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="-43.18" y1="-43.18" x2="-43.18" y2="-50.8" width="0.1524" layer="91"/>
+<wire x1="-88.9" y1="-99.06" x2="-88.9" y2="-106.68" width="0.1524" layer="91"/>
 <pinref part="POWER" gate="G$1" pin="A"/>
 </segment>
 </net>
@@ -20836,8 +21110,8 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </segment>
 <segment>
 <pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="-43.18" y1="-33.02" x2="-43.18" y2="-30.48" width="0.1524" layer="91"/>
-<label x="-43.18" y="-30.48" size="1.778" layer="95" rot="R90" xref="yes"/>
+<wire x1="-88.9" y1="-88.9" x2="-88.9" y2="-86.36" width="0.1524" layer="91"/>
+<label x="-88.9" y="-86.36" size="1.778" layer="95" rot="R90" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="EN"/>
@@ -20899,6 +21173,11 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="-5.08" y1="-22.86" x2="-7.62" y2="-22.86" width="0.1524" layer="91"/>
 <label x="-7.62" y="-22.86" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<wire x1="2.54" y1="-63.5" x2="0" y2="-63.5" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="NSS"/>
+<label x="2.54" y="-63.5" size="0.8128" layer="95" ratio="4" xref="yes"/>
+</segment>
 </net>
 <net name="INT_LAN" class="0">
 <segment>
@@ -20942,17 +21221,27 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="-5.08" y1="-15.24" x2="-7.62" y2="-15.24" width="0.1524" layer="91"/>
 <label x="-7.62" y="-15.24" size="0.6096" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<wire x1="2.54" y1="-60.96" x2="0" y2="-60.96" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="SCK"/>
+<label x="2.54" y="-60.96" size="0.8128" layer="95" ratio="4" xref="yes"/>
+</segment>
 </net>
 <net name="MOSI_VSPI" class="0">
 <segment>
-<pinref part="MD1" gate="G$0" pin="IO19"/>
-<wire x1="-99.06" y1="20.32" x2="-101.6" y2="20.32" width="0.1524" layer="91"/>
-<label x="-101.6" y="20.32" size="0.8128" layer="95" rot="R180" xref="yes"/>
+<label x="-101.6" y="12.7" size="0.8128" layer="95" rot="R180" xref="yes"/>
+<wire x1="-101.6" y1="12.7" x2="-99.06" y2="12.7" width="0.1524" layer="91"/>
+<pinref part="MD1" gate="G$0" pin="IO23"/>
 </segment>
 <segment>
-<pinref part="LORA-NICERF-V1" gate="G$1" pin="MISO"/>
-<wire x1="-5.08" y1="-17.78" x2="-7.62" y2="-17.78" width="0.1524" layer="91"/>
-<label x="-7.62" y="-17.78" size="0.6096" layer="95" rot="R180" xref="yes"/>
+<label x="-7.62" y="-20.32" size="0.6096" layer="95" rot="R180" xref="yes"/>
+<wire x1="-7.62" y1="-20.32" x2="-5.08" y2="-20.32" width="0.1524" layer="91"/>
+<pinref part="LORA-NICERF-V1" gate="G$1" pin="MOSI"/>
+</segment>
+<segment>
+<label x="2.54" y="-66.04" size="0.8128" layer="95" ratio="4" xref="yes"/>
+<wire x1="2.54" y1="-66.04" x2="0" y2="-66.04" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="MOSI"/>
 </segment>
 </net>
 <net name="TX_DB9" class="0">
@@ -20981,14 +21270,19 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </net>
 <net name="MISO_VSPI" class="0">
 <segment>
-<pinref part="MD1" gate="G$0" pin="IO23"/>
-<wire x1="-99.06" y1="12.7" x2="-101.6" y2="12.7" width="0.1524" layer="91"/>
-<label x="-101.6" y="12.7" size="0.8128" layer="95" rot="R180" xref="yes"/>
+<label x="-101.6" y="20.32" size="0.8128" layer="95" rot="R180" xref="yes"/>
+<wire x1="-101.6" y1="20.32" x2="-99.06" y2="20.32" width="0.1524" layer="91"/>
+<pinref part="MD1" gate="G$0" pin="IO19"/>
 </segment>
 <segment>
-<pinref part="LORA-NICERF-V1" gate="G$1" pin="MOSI"/>
-<wire x1="-5.08" y1="-20.32" x2="-7.62" y2="-20.32" width="0.1524" layer="91"/>
-<label x="-7.62" y="-20.32" size="0.6096" layer="95" rot="R180" xref="yes"/>
+<label x="-7.62" y="-17.78" size="0.6096" layer="95" rot="R180" xref="yes"/>
+<wire x1="-7.62" y1="-17.78" x2="-5.08" y2="-17.78" width="0.1524" layer="91"/>
+<pinref part="LORA-NICERF-V1" gate="G$1" pin="MISO"/>
+</segment>
+<segment>
+<label x="2.54" y="-68.58" size="0.8128" layer="95" ratio="4" xref="yes"/>
+<wire x1="2.54" y1="-68.58" x2="0" y2="-68.58" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="MISO"/>
 </segment>
 </net>
 <net name="LORA_DI0" class="0">
@@ -21004,6 +21298,11 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="-99.06" y1="10.16" x2="-101.6" y2="10.16" width="0.1524" layer="91"/>
 <label x="-101.6" y="10.16" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<wire x1="-38.1" y1="-60.96" x2="-35.56" y2="-60.96" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="DIO0"/>
+<label x="-38.1" y="-60.96" size="0.8128" layer="95" ratio="4" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="LORA_DI1" class="0">
 <segment>
@@ -21017,6 +21316,11 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <pinref part="MD1" gate="G$0" pin="IO32"/>
 <wire x1="-99.06" y1="2.54" x2="-101.6" y2="2.54" width="0.1524" layer="91"/>
 <label x="-101.6" y="2.54" size="0.8128" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<wire x1="-38.1" y1="-63.5" x2="-35.56" y2="-63.5" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="DIO1"/>
+<label x="-38.1" y="-63.5" size="0.8128" layer="95" ratio="4" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="SS_LAN_CONV" class="0">
@@ -21066,14 +21370,14 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="71.12" y1="-60.96" x2="66.04" y2="-60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="25.4" y1="-73.66" x2="12.7" y2="-73.66" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="-119.38" x2="78.74" y2="-119.38" width="0.1524" layer="91"/>
 <pinref part="TX_MK7" gate="1" pin="2"/>
-<label x="25.4" y="-73.66" size="1.016" layer="95" xref="yes"/>
+<label x="91.44" y="-119.38" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="TX_MK10" gate="1" pin="2"/>
-<label x="25.4" y="-58.42" size="1.016" layer="95" xref="yes"/>
-<wire x1="12.7" y1="-58.42" x2="25.4" y2="-58.42" width="0.1524" layer="91"/>
+<label x="91.44" y="-104.14" size="1.016" layer="95" xref="yes"/>
+<wire x1="78.74" y1="-104.14" x2="91.44" y2="-104.14" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="R2IN" class="0">
@@ -21088,13 +21392,13 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </segment>
 <segment>
 <pinref part="RX_MK10" gate="1" pin="2"/>
-<wire x1="12.7" y1="-60.96" x2="25.4" y2="-60.96" width="0.1524" layer="91"/>
-<label x="25.4" y="-60.96" size="1.016" layer="95" xref="yes"/>
+<wire x1="78.74" y1="-106.68" x2="91.44" y2="-106.68" width="0.1524" layer="91"/>
+<label x="91.44" y="-106.68" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="RX_MK7" gate="1" pin="2"/>
-<wire x1="12.7" y1="-76.2" x2="25.4" y2="-76.2" width="0.1524" layer="91"/>
-<label x="25.4" y="-76.2" size="1.016" layer="95" xref="yes"/>
+<wire x1="78.74" y1="-121.92" x2="91.44" y2="-121.92" width="0.1524" layer="91"/>
+<label x="91.44" y="-121.92" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -21145,13 +21449,18 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <net name="RST_LORA" class="0">
 <segment>
 <pinref part="LORA-NICERF-V1" gate="G$1" pin="NRST"/>
-<wire x1="22.86" y1="-12.7" x2="25.4" y2="-12.7" width="0.1524" layer="91"/>
-<label x="25.4" y="-12.7" size="0.6096" layer="95" xref="yes"/>
+<wire x1="22.86" y1="-12.7" x2="33.02" y2="-12.7" width="0.1524" layer="91"/>
+<label x="33.02" y="-12.7" size="0.6096" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="MD1" gate="G$0" pin="IO26"/>
 <wire x1="-99.06" y1="7.62" x2="-101.6" y2="7.62" width="0.1524" layer="91"/>
 <label x="-101.6" y="7.62" size="0.6096" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<wire x1="-38.1" y1="-55.88" x2="-35.56" y2="-55.88" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="RESET"/>
+<label x="-38.1" y="-55.88" size="0.8128" layer="95" ratio="6" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="LED_PROSES" class="0">
@@ -21162,8 +21471,8 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </segment>
 <segment>
 <pinref part="R12" gate="G$1" pin="2"/>
-<wire x1="-27.94" y1="-35.56" x2="-27.94" y2="-33.02" width="0.1524" layer="91"/>
-<label x="-27.94" y="-33.02" size="0.6096" layer="95" rot="R90" xref="yes"/>
+<wire x1="-73.66" y1="-91.44" x2="-73.66" y2="-88.9" width="0.1524" layer="91"/>
+<label x="-73.66" y="-88.9" size="0.6096" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="LED_WARNING" class="0">
@@ -21174,21 +21483,21 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </segment>
 <segment>
 <pinref part="R13" gate="G$1" pin="2"/>
-<wire x1="-22.86" y1="-35.56" x2="-22.86" y2="-33.02" width="0.1524" layer="91"/>
-<label x="-22.86" y="-33.02" size="0.6096" layer="95" rot="R90" xref="yes"/>
+<wire x1="-68.58" y1="-91.44" x2="-68.58" y2="-88.9" width="0.1524" layer="91"/>
+<label x="-68.58" y="-88.9" size="0.6096" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="N$25" class="0">
 <segment>
 <pinref part="R12" gate="G$1" pin="1"/>
 <pinref part="PROSES" gate="G$1" pin="A"/>
-<wire x1="-27.94" y1="-45.72" x2="-27.94" y2="-50.8" width="0.1524" layer="91"/>
+<wire x1="-73.66" y1="-101.6" x2="-73.66" y2="-106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$28" class="0">
 <segment>
 <pinref part="R13" gate="G$1" pin="1"/>
-<wire x1="-22.86" y1="-49.53" x2="-22.86" y2="-45.72" width="0.1524" layer="91"/>
+<wire x1="-68.58" y1="-105.41" x2="-68.58" y2="-101.6" width="0.1524" layer="91"/>
 <pinref part="WARNING" gate="G$1" pin="A"/>
 </segment>
 </net>
@@ -21202,6 +21511,11 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <pinref part="J1" gate="G$1" pin="SIG"/>
 <wire x1="-2.54" y1="-27.94" x2="-5.08" y2="-27.94" width="0.1524" layer="91"/>
 <label x="-5.08" y="-27.94" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U6" gate="G$1" pin="ANT"/>
+<wire x1="0" y1="-55.88" x2="7.62" y2="-55.88" width="0.1524" layer="91"/>
+<label x="7.62" y="-55.88" size="1.4224" layer="95" ratio="6" xref="yes"/>
 </segment>
 </net>
 <net name="N$6" class="0">
@@ -21244,6 +21558,11 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="33.02" y1="-17.78" x2="35.56" y2="-17.78" width="0.1524" layer="91"/>
 <junction x="35.56" y="-17.78"/>
 </segment>
+<segment>
+<wire x1="0" y1="-50.8" x2="2.54" y2="-50.8" width="0.1524" layer="91"/>
+<pinref part="U6" gate="G$1" pin="3.3V"/>
+<label x="2.54" y="-50.8" size="0.8128" layer="95" ratio="4" xref="yes"/>
+</segment>
 </net>
 <net name="3V3-LAN-GPS" class="0">
 <segment>
@@ -21283,8 +21602,6 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <junction x="107.95" y="43.18"/>
 <junction x="107.95" y="55.88"/>
 <pinref part="C27" gate="G$1" pin="+"/>
-<pinref part="C28" gate="G$1" pin="+"/>
-<pinref part="C29" gate="G$1" pin="+"/>
 </segment>
 </net>
 <net name="EN-3V3-LAN-GPS" class="0">
@@ -21331,14 +21648,14 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <label x="55.88" y="-58.42" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-3.81" y1="-55.88" x2="2.54" y2="-55.88" width="0.1524" layer="91"/>
-<label x="-2.54" y="-55.88" size="1.016" layer="95" rot="R180" xref="yes"/>
+<wire x1="62.23" y1="-101.6" x2="68.58" y2="-101.6" width="0.1524" layer="91"/>
+<label x="63.5" y="-101.6" size="1.016" layer="95" rot="R180" xref="yes"/>
 <pinref part="GND_MK10" gate="1" pin="1"/>
 </segment>
 <segment>
-<wire x1="-6.35" y1="-73.66" x2="2.54" y2="-73.66" width="0.1524" layer="91"/>
+<wire x1="59.69" y1="-119.38" x2="68.58" y2="-119.38" width="0.1524" layer="91"/>
 <pinref part="TX_MK7" gate="1" pin="1"/>
-<label x="-5.08" y="-73.66" size="1.016" layer="95" rot="R180" xref="yes"/>
+<label x="60.96" y="-119.38" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="RJ45_5" class="0">
@@ -21348,14 +21665,14 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <label x="55.88" y="-60.96" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-3.81" y1="-58.42" x2="2.54" y2="-58.42" width="0.1524" layer="91"/>
+<wire x1="62.23" y1="-104.14" x2="68.58" y2="-104.14" width="0.1524" layer="91"/>
 <pinref part="TX_MK10" gate="1" pin="1"/>
-<label x="-2.54" y="-58.42" size="1.016" layer="95" rot="R180" xref="yes"/>
+<label x="63.5" y="-104.14" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-6.35" y1="-76.2" x2="2.54" y2="-76.2" width="0.1524" layer="91"/>
+<wire x1="59.69" y1="-121.92" x2="68.58" y2="-121.92" width="0.1524" layer="91"/>
 <pinref part="RX_MK7" gate="1" pin="1"/>
-<label x="-5.08" y="-76.2" size="1.016" layer="95" rot="R180" xref="yes"/>
+<label x="60.96" y="-121.92" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="RJ45_6" class="0">
@@ -21365,14 +21682,31 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <label x="55.88" y="-63.5" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-3.81" y1="-60.96" x2="2.54" y2="-60.96" width="0.1524" layer="91"/>
+<wire x1="62.23" y1="-106.68" x2="68.58" y2="-106.68" width="0.1524" layer="91"/>
 <pinref part="RX_MK10" gate="1" pin="1"/>
-<label x="-2.54" y="-60.96" size="1.016" layer="95" rot="R180" xref="yes"/>
+<label x="63.5" y="-106.68" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-6.35" y1="-71.12" x2="2.54" y2="-71.12" width="0.1524" layer="91"/>
+<wire x1="59.69" y1="-116.84" x2="68.58" y2="-116.84" width="0.1524" layer="91"/>
 <pinref part="GND-MK7" gate="1" pin="1"/>
-<label x="-5.08" y="-71.12" size="1.016" layer="95" rot="R180" xref="yes"/>
+<label x="60.96" y="-116.84" size="1.016" layer="95" rot="R180" xref="yes"/>
+</segment>
+</net>
+<net name="N$7" class="0">
+<segment>
+<pinref part="C4" gate="G$1" pin="-"/>
+<wire x1="53.34" y1="180.34" x2="59.69" y2="180.34" width="0.1524" layer="91"/>
+<pinref part="PS1" gate="G$1" pin="-V(CAP)"/>
+<wire x1="59.69" y1="180.34" x2="59.69" y2="179.07" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$11" class="0">
+<segment>
+<pinref part="PS1" gate="G$1" pin="+V(CAP)"/>
+<wire x1="59.69" y1="176.53" x2="58.42" y2="176.53" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="176.53" x2="58.42" y2="172.72" width="0.1524" layer="91"/>
+<pinref part="C4" gate="G$1" pin="+"/>
+<wire x1="58.42" y1="172.72" x2="53.34" y2="172.72" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
@@ -21395,7 +21729,6 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <approved hash="208,1,-12.7,-7.62,GND,sup,,,,"/>
 <approved hash="208,1,35.56,-27.94,GND,sup,,,,"/>
 <approved hash="208,1,-81.28,-58.42,GND,sup,,,,"/>
-<approved hash="208,1,-35.56,-63.5,GND,sup,,,,"/>
 <approved hash="108,1,-86.36,175.26,GND,,,,,"/>
 <approved hash="110,1,-93.98,160.02,USB_N,N$12,,,,"/>
 <approved hash="110,1,-93.98,160.02,USB_N,N$12,,,,"/>
@@ -21422,6 +21755,11 @@ will not be understood (or retained) with this version.
 Since Version 8.3, EAGLE supports the association of 3D packages
 with devices in libraries, schematics, and board files. Those 3D
 packages will not be understood (or retained) with this version.
+</note>
+<note version="9.4" severity="warning">
+Since Version 9.4, EAGLE supports the overriding of 3D packages
+in schematics and board files. Those overridden 3d packages
+will not be understood (or retained) with this version.
 </note>
 <note version="8.4" severity="warning">
 Since Version 8.4, EAGLE supports properties for SPICE simulation. 
