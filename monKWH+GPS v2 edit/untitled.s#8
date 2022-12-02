@@ -19707,6 +19707,75 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 </deviceset>
 </devicesets>
 </library>
+<library name="B72214S0271K101">
+<packages>
+<package name="VAR_B72214S0271K101">
+<wire x1="-7.75" y1="2.5" x2="7.75" y2="2.5" width="0.127" layer="51"/>
+<wire x1="7.75" y1="2.5" x2="7.75" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="-7.75" y1="2.5" x2="-7.75" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="7.75" y1="-2.5" x2="-7.75" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="-7.75" y1="2.5" x2="7.75" y2="2.5" width="0.127" layer="21"/>
+<wire x1="-7.75" y1="-2.5" x2="7.75" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-7.75" y1="2.5" x2="-7.75" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="7.75" y1="2.5" x2="7.75" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-8" y1="2.75" x2="8" y2="2.75" width="0.05" layer="39"/>
+<wire x1="-8" y1="2.75" x2="-8" y2="-2.75" width="0.05" layer="39"/>
+<wire x1="8" y1="2.75" x2="8" y2="-2.75" width="0.05" layer="39"/>
+<wire x1="8" y1="-2.75" x2="-8" y2="-2.75" width="0.05" layer="39"/>
+<text x="-8" y="2.95" size="1.27" layer="25">&gt;NAME</text>
+<text x="-8" y="-2.95" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
+<pad name="1" x="-3.75" y="0.9" drill="1.05" diameter="1.4"/>
+<pad name="2" x="3.75" y="-0.9" drill="1.05" diameter="1.4"/>
+</package>
+</packages>
+<symbols>
+<symbol name="B72214S0271K101">
+<wire x1="-1.27" y1="-1.27" x2="0" y2="1.27" width="0.254" layer="94"/>
+<wire x1="0" y1="1.27" x2="1.27" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="1.27" y1="-1.27" x2="2.54" y2="1.27" width="0.254" layer="94"/>
+<wire x1="2.54" y1="1.27" x2="3.81" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="3.81" y1="-1.27" x2="5.08" y2="0" width="0.254" layer="94"/>
+<wire x1="-1.27" y1="-1.27" x2="-2.54" y2="1.27" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="1.27" x2="-3.81" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="-3.81" y1="-1.27" x2="-5.08" y2="0" width="0.254" layer="94"/>
+<wire x1="-3.302" y1="-2.54" x2="3.556" y2="2.032" width="0.254" layer="94"/>
+<text x="-5.08" y="2.54" size="1.778" layer="95">&gt;NAME</text>
+<text x="-5.08" y="-5.08" size="1.778" layer="96">&gt;VALUE</text>
+<wire x1="-3.302" y1="-2.54" x2="-5.334" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-0.3175" y1="-1.27" x2="0" y2="-1.905" width="0.254" layer="94"/>
+<wire x1="0" y1="-1.905" x2="0.3175" y2="-1.27" width="0.254" layer="94"/>
+<pin name="1" x="-7.62" y="0" visible="pad" length="short" direction="pas"/>
+<pin name="2" x="7.62" y="0" visible="pad" length="short" direction="pas" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="B72214S0271K101" prefix="RV">
+<description> &lt;a href="https://pricing.snapeda.com/parts/B72214S0271K101/EPCOS/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="B72214S0271K101" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="VAR_B72214S0271K101">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="AVAILABILITY" value="In Stock"/>
+<attribute name="DESCRIPTION" value=" 430 V 4.5 kA Varistor 1 Circuit Through Hole Disc 14mm "/>
+<attribute name="MF" value="EPCOS"/>
+<attribute name="MP" value="B72214S0271K101"/>
+<attribute name="PACKAGE" value="None"/>
+<attribute name="PRICE" value="None"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/B72214S0271K101/?ref=eda"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 <library name="FUSE-KOTAK">
 <packages>
 <package name="FUSE-KOTAK">
@@ -19843,6 +19912,7 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <part name="J3" library="Connector_USB" library_urn="urn:adsk.eagle:library:27510300" deviceset="10103594" device="" package3d_urn="urn:adsk.eagle:package:27659499/2"/>
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="PS2" library="LD05-23B05R2" deviceset="LD05-23B05R2" device=""/>
+<part name="RV1" library="B72214S0271K101" deviceset="B72214S0271K101" device=""/>
 <part name="FUSE-KOTAK1" library="FUSE-KOTAK" deviceset="FUSE-KOTAK" device=""/>
 </parts>
 <sheets>
@@ -20184,7 +20254,11 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <attribute name="NAME" x="60.96" y="186.69" size="1.778" layer="95"/>
 <attribute name="VALUE" x="60.96" y="167.64" size="1.778" layer="96"/>
 </instance>
-<instance part="FUSE-KOTAK1" gate="G$1" x="40.64" y="198.12" smashed="yes" rot="R90"/>
+<instance part="RV1" gate="G$1" x="53.34" y="175.26" smashed="yes" rot="R90">
+<attribute name="NAME" x="50.8" y="170.18" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="58.42" y="170.18" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="FUSE-KOTAK1" gate="G$1" x="50.8" y="195.58" smashed="yes" rot="R90"/>
 </instances>
 <busses>
 </busses>
@@ -21328,33 +21402,22 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <label x="60.96" y="-116.84" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
+<net name="N$7" class="0">
+<segment>
+<pinref part="PS2" gate="G$1" pin="AC(L)"/>
+<pinref part="RV1" gate="G$1" pin="2"/>
+<wire x1="55.88" y1="182.88" x2="53.34" y2="182.88" width="0.1524" layer="91"/>
+<pinref part="FUSE-KOTAK1" gate="G$1" pin="2"/>
+<wire x1="53.34" y1="182.88" x2="50.8" y2="182.88" width="0.1524" layer="91"/>
+<junction x="53.34" y="182.88"/>
+</segment>
+</net>
 <net name="N$11" class="0">
 <segment>
-<wire x1="45.72" y1="162.56" x2="68.58" y2="162.56" width="0.1524" layer="91"/>
 <pinref part="PS2" gate="G$1" pin="AC(N)"/>
-<wire x1="55.88" y1="172.72" x2="45.72" y2="172.72" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="172.72" x2="45.72" y2="162.56" width="0.1524" layer="91"/>
-<pinref part="X1" gate="-1" pin="1"/>
-<wire x1="68.58" y1="162.56" x2="68.58" y2="158.75" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="158.75" x2="66.04" y2="158.75" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$13" class="0">
-<segment>
-<pinref part="FUSE-KOTAK1" gate="G$1" pin="2"/>
-<pinref part="PS2" gate="G$1" pin="AC(L)"/>
-<wire x1="55.88" y1="182.88" x2="55.88" y2="185.42" width="0.1524" layer="91"/>
-<wire x1="40.64" y1="185.42" x2="55.88" y2="185.42" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$17" class="0">
-<segment>
-<pinref part="FUSE-KOTAK1" gate="G$1" pin="1"/>
-<wire x1="38.1" y1="185.42" x2="38.1" y2="160.02" width="0.1524" layer="91"/>
-<pinref part="X1" gate="-2" pin="1"/>
-<wire x1="38.1" y1="160.02" x2="38.1" y2="158.75" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="158.75" x2="38.1" y2="153.67" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="153.67" x2="66.04" y2="153.67" width="0.1524" layer="91"/>
+<pinref part="RV1" gate="G$1" pin="1"/>
+<wire x1="55.88" y1="172.72" x2="53.34" y2="172.72" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="172.72" x2="53.34" y2="167.64" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

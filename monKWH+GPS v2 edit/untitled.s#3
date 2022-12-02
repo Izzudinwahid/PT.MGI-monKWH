@@ -21331,12 +21331,12 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <net name="N$11" class="0">
 <segment>
 <wire x1="45.72" y1="162.56" x2="68.58" y2="162.56" width="0.1524" layer="91"/>
+<pinref part="X1" gate="-2" pin="1"/>
+<wire x1="68.58" y1="162.56" x2="68.58" y2="153.67" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="153.67" x2="66.04" y2="153.67" width="0.1524" layer="91"/>
 <pinref part="PS2" gate="G$1" pin="AC(N)"/>
 <wire x1="55.88" y1="172.72" x2="45.72" y2="172.72" width="0.1524" layer="91"/>
 <wire x1="45.72" y1="172.72" x2="45.72" y2="162.56" width="0.1524" layer="91"/>
-<pinref part="X1" gate="-1" pin="1"/>
-<wire x1="68.58" y1="162.56" x2="68.58" y2="158.75" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="158.75" x2="66.04" y2="158.75" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$13" class="0">
@@ -21350,11 +21350,9 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <net name="N$17" class="0">
 <segment>
 <pinref part="FUSE-KOTAK1" gate="G$1" pin="1"/>
-<wire x1="38.1" y1="185.42" x2="38.1" y2="160.02" width="0.1524" layer="91"/>
-<pinref part="X1" gate="-2" pin="1"/>
-<wire x1="38.1" y1="160.02" x2="38.1" y2="158.75" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="158.75" x2="38.1" y2="153.67" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="153.67" x2="66.04" y2="153.67" width="0.1524" layer="91"/>
+<pinref part="X1" gate="-1" pin="1"/>
+<wire x1="38.1" y1="185.42" x2="38.1" y2="158.75" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="158.75" x2="66.04" y2="158.75" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

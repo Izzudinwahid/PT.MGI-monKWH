@@ -21334,9 +21334,6 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <pinref part="PS2" gate="G$1" pin="AC(N)"/>
 <wire x1="55.88" y1="172.72" x2="45.72" y2="172.72" width="0.1524" layer="91"/>
 <wire x1="45.72" y1="172.72" x2="45.72" y2="162.56" width="0.1524" layer="91"/>
-<pinref part="X1" gate="-1" pin="1"/>
-<wire x1="68.58" y1="162.56" x2="68.58" y2="158.75" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="158.75" x2="66.04" y2="158.75" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$13" class="0">
