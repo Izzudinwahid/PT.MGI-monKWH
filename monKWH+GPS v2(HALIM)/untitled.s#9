@@ -18355,12 +18355,57 @@ Based on the previous libraries:
 <text x="-4.572" y="4.445" size="1.27" layer="21" ratio="10">1</text>
 <text x="0.254" y="4.445" size="1.27" layer="21" ratio="10">2</text>
 </package>
+<package name="MSTBA3" urn="urn:adsk.eagle:footprint:9517/1" library_version="3">
+<description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
+<wire x1="-8.636" y1="7.112" x2="-8.636" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-8.636" y1="7.112" x2="-5.715" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-5.715" y1="7.112" x2="-4.445" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="-4.445" y1="7.112" x2="-0.635" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="7.112" x2="0.635" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="5.715" y1="7.112" x2="8.636" y2="7.112" width="0.1524" layer="21"/>
+<wire x1="-8.636" y1="-1.905" x2="8.636" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="8.636" y1="7.112" x2="8.636" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-8.636" y1="-4.953" x2="-5.969" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-8.636" y1="-1.905" x2="-8.636" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="8.636" y1="-1.905" x2="8.636" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-4.191" y1="-4.953" x2="-4.572" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-4.191" y1="-4.953" x2="-0.889" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-4.572" y1="-3.683" x2="-5.588" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-5.969" y1="-4.953" x2="-5.588" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-5.969" y1="-4.953" x2="-4.191" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="0.889" y1="-4.953" x2="0.508" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="0.889" y1="-4.953" x2="4.191" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="4.191" y1="-4.953" x2="5.969" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="5.969" y1="-4.953" x2="8.636" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-0.889" y1="-4.953" x2="-0.508" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-0.889" y1="-4.953" x2="0.889" y2="-4.953" width="0.1524" layer="21"/>
+<wire x1="-0.508" y1="-3.683" x2="0.508" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="4.572" y1="-3.683" x2="5.588" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="5.969" y1="-4.953" x2="5.588" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="4.191" y1="-4.953" x2="4.572" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="4.445" y1="7.112" x2="5.715" y2="7.112" width="0.1524" layer="51"/>
+<wire x1="0.635" y1="7.112" x2="4.445" y2="7.112" width="0.1524" layer="21"/>
+<pad name="1" x="-5.08" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<pad name="2" x="0" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<pad name="3" x="5.08" y="5.08" drill="1.397" shape="long" rot="R90"/>
+<text x="-8.636" y="7.62" size="1.778" layer="25" ratio="10">&gt;NAME</text>
+<text x="-7.62" y="0" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-7.112" y="4.445" size="1.27" layer="21" ratio="10">1</text>
+<text x="-2.286" y="4.445" size="1.27" layer="21" ratio="10">2</text>
+<text x="2.794" y="4.445" size="1.27" layer="21" ratio="10">3</text>
+</package>
 </packages>
 <packages3d>
 <package3d name="MSTBA2" urn="urn:adsk.eagle:package:9615/1" type="box" library_version="3">
 <description>PHOENIX</description>
 <packageinstances>
 <packageinstance name="MSTBA2"/>
+</packageinstances>
+</package3d>
+<package3d name="MSTBA3" urn="urn:adsk.eagle:package:9608/1" type="box" library_version="3">
+<description>PHOENIX</description>
+<packageinstances>
+<packageinstance name="MSTBA3"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -18412,6 +18457,35 @@ Based on the previous libraries:
 <attribute name="OC_FARNELL" value="3705171" constant="no"/>
 <attribute name="OC_NEWARK" value="71C4161" constant="no"/>
 <attribute name="POPULARITY" value="11" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="MSTBA3" urn="urn:adsk.eagle:component:9686/2" prefix="X" library_version="3">
+<description>&lt;b&gt;PHOENIX&lt;/b&gt;</description>
+<gates>
+<gate name="-1" symbol="SK" x="0" y="5.08" addlevel="always"/>
+<gate name="-2" symbol="SK" x="0" y="0" addlevel="always"/>
+<gate name="-3" symbol="SKV" x="0" y="-5.08" addlevel="always"/>
+</gates>
+<devices>
+<device name="" package="MSTBA3">
+<connects>
+<connect gate="-1" pin="1" pad="1"/>
+<connect gate="-2" pin="1" pad="2"/>
+<connect gate="-3" pin="1" pad="3"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:9608/1"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="MF" value="FARNELL" constant="no"/>
+<attribute name="MPN" value="1757255" constant="no"/>
+<attribute name="OC_FARNELL" value="3705183" constant="no"/>
+<attribute name="OC_NEWARK" value="71C4162" constant="no"/>
+<attribute name="POPULARITY" value="3" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -19530,6 +19604,7 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="POWER3" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="TLLY4400" device="" package3d_urn="urn:adsk.eagle:package:15797/1"/>
 <part name="R15" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="R-US_" device="M0805" package3d_urn="urn:adsk.eagle:package:6240587/1" value="1K"/>
+<part name="X5" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" deviceset="MSTBA3" device="" package3d_urn="urn:adsk.eagle:package:9608/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -19890,6 +19965,16 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <instance part="R15" gate="G$1" x="45.72" y="-113.03" smashed="yes" rot="R90">
 <attribute name="NAME" x="44.2214" y="-116.84" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="49.022" y="-116.84" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="X5" gate="-1" x="116.84" y="-130.81" smashed="yes" rot="R180">
+<attribute name="NAME" x="123.444" y="-131.699" size="1.778" layer="95"/>
+</instance>
+<instance part="X5" gate="-2" x="116.84" y="-125.73" smashed="yes" rot="R180">
+<attribute name="NAME" x="123.444" y="-126.619" size="1.778" layer="95"/>
+</instance>
+<instance part="X5" gate="-3" x="116.84" y="-120.65" smashed="yes" rot="R180">
+<attribute name="VALUE" x="124.46" y="-116.84" size="1.778" layer="96" rot="R180"/>
+<attribute name="NAME" x="123.444" y="-121.539" size="1.778" layer="95"/>
 </instance>
 </instances>
 <busses>
@@ -20704,13 +20789,14 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="68.58" y1="158.75" x2="66.04" y2="158.75" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$13" class="0">
+<net name="L" class="0">
 <segment>
 <pinref part="PS2" gate="G$1" pin="AC(L)"/>
 <wire x1="55.88" y1="182.88" x2="55.88" y2="189.23" width="0.1524" layer="91"/>
 <pinref part="FUSE-KOTAK1" gate="G$1" pin="2"/>
 <wire x1="55.88" y1="189.23" x2="40.64" y2="189.23" width="0.1524" layer="91"/>
 <wire x1="40.64" y1="189.23" x2="40.64" y2="185.42" width="0.1524" layer="91"/>
+<label x="45.72" y="190.5" size="0.6096" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="N$17" class="0">

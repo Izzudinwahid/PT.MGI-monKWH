@@ -20525,9 +20525,9 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <label x="-81.28" y="-48.26" size="0.8128" layer="95" xref="yes"/>
 </segment>
 <segment>
-<label x="-101.6" y="20.32" size="0.8128" layer="95" rot="R180" xref="yes"/>
-<wire x1="-101.6" y1="20.32" x2="-99.06" y2="20.32" width="0.1524" layer="91"/>
-<pinref part="MD1" gate="G$0" pin="IO19"/>
+<label x="-101.6" y="12.7" size="0.8128" layer="95" rot="R180" xref="yes"/>
+<wire x1="-101.6" y1="12.7" x2="-99.06" y2="12.7" width="0.1524" layer="91"/>
+<pinref part="MD1" gate="G$0" pin="IO23"/>
 </segment>
 </net>
 <net name="TX_DB9" class="0">
@@ -20561,9 +20561,9 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <label x="-119.38" y="-40.64" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<label x="-101.6" y="12.7" size="0.8128" layer="95" rot="R180" xref="yes"/>
-<wire x1="-101.6" y1="12.7" x2="-99.06" y2="12.7" width="0.1524" layer="91"/>
-<pinref part="MD1" gate="G$0" pin="IO23"/>
+<label x="-101.6" y="20.32" size="0.8128" layer="95" rot="R180" xref="yes"/>
+<wire x1="-101.6" y1="20.32" x2="-99.06" y2="20.32" width="0.1524" layer="91"/>
+<pinref part="MD1" gate="G$0" pin="IO19"/>
 </segment>
 </net>
 <net name="SS_LAN_CONV" class="0">

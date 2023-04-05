@@ -20774,6 +20774,21 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="40.64" y1="189.23" x2="40.64" y2="185.42" width="0.1524" layer="91"/>
 <label x="45.72" y="190.5" size="0.6096" layer="95" rot="R90" xref="yes"/>
 </segment>
+<segment>
+<pinref part="K4" gate="G$1" pin="L1"/>
+<wire x1="-59.055" y1="-77.47" x2="-35.56" y2="-77.47" width="0.1524" layer="91"/>
+<label x="-35.56" y="-77.47" size="0.6096" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="K1" gate="G$1" pin="L1"/>
+<wire x1="-53.975" y1="-135.89" x2="-31.75" y2="-135.89" width="0.1524" layer="91"/>
+<label x="-31.75" y="-135.89" size="0.6096" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="K2" gate="G$1" pin="L1"/>
+<wire x1="57.785" y1="-86.36" x2="81.28" y2="-86.36" width="0.1524" layer="91"/>
+<label x="81.28" y="-86.36" size="0.6096" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="N$17" class="0">
 <segment>
@@ -20931,28 +20946,10 @@ NC has a large amount of paste (see paste layer) so that it should jumper during
 <wire x1="45.72" y1="-120.65" x2="45.72" y2="-118.11" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$13" class="0">
-<segment>
-<pinref part="K4" gate="G$1" pin="L1"/>
-<wire x1="-59.055" y1="-77.47" x2="-35.56" y2="-77.47" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$20" class="0">
-<segment>
-<pinref part="K1" gate="G$1" pin="L1"/>
-<wire x1="-53.975" y1="-135.89" x2="-31.75" y2="-135.89" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$31" class="0">
 <segment>
 <pinref part="K1" gate="G$1" pin="L2"/>
 <wire x1="-53.975" y1="-143.51" x2="-31.75" y2="-143.51" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$32" class="0">
-<segment>
-<pinref part="K2" gate="G$1" pin="L1"/>
-<wire x1="57.785" y1="-86.36" x2="81.28" y2="-86.36" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$37" class="0">

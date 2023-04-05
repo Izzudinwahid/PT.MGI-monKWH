@@ -36,30 +36,30 @@
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
-<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
@@ -79,38 +79,38 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
 <layer number="99" name="SpiceOrder" color="7" fill="1" visible="no" active="no"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
-<layer number="101" name="Patch_Top" color="12" fill="4" visible="no" active="yes"/>
-<layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
-<layer number="103" name="fp3" color="7" fill="1" visible="no" active="yes"/>
-<layer number="104" name="Name" color="7" fill="1" visible="no" active="yes"/>
-<layer number="105" name="Beschreib" color="9" fill="1" visible="no" active="yes"/>
-<layer number="106" name="BGA-Top" color="4" fill="1" visible="no" active="yes"/>
-<layer number="107" name="BD-Top" color="5" fill="1" visible="no" active="yes"/>
-<layer number="108" name="fp8" color="7" fill="1" visible="no" active="yes"/>
-<layer number="109" name="fp9" color="7" fill="1" visible="no" active="yes"/>
-<layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
-<layer number="111" name="LPC17xx" color="7" fill="1" visible="no" active="yes"/>
-<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="101" name="Patch_Top" color="12" fill="4" visible="yes" active="yes"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="103" name="fp3" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="104" name="Name" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="105" name="Beschreib" color="9" fill="1" visible="yes" active="yes"/>
+<layer number="106" name="BGA-Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="107" name="BD-Top" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="108" name="fp8" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="109" name="fp9" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="110" name="fp0" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="111" name="LPC17xx" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="113" name="ReferenceLS" color="7" fill="1" visible="no" active="no"/>
-<layer number="114" name="Badge_Outline" color="7" fill="1" visible="no" active="yes"/>
-<layer number="115" name="ReferenceISLANDS" color="7" fill="1" visible="no" active="yes"/>
-<layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="yes"/>
+<layer number="114" name="Badge_Outline" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="115" name="ReferenceISLANDS" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="116" name="Patch_BOT" color="9" fill="4" visible="yes" active="yes"/>
 <layer number="117" name="PM_Ref" color="7" fill="1" visible="no" active="no"/>
 <layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="no"/>
 <layer number="119" name="PF_Ref" color="7" fill="1" visible="no" active="no"/>
 <layer number="120" name="WFL_Ref" color="7" fill="1" visible="no" active="no"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
-<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
-<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="yes"/>
-<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="126" name="_bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="129" name="Mask" color="7" fill="1" visible="no" active="yes"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="125" name="_tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="129" name="Mask" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="130" name="mbStop" color="7" fill="1" visible="no" active="no"/>
-<layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
-<layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="131" name="tAdjust" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="132" name="bAdjust" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="133" name="mtFinish" color="7" fill="1" visible="no" active="no"/>
 <layer number="134" name="mbFinish" color="7" fill="1" visible="no" active="no"/>
 <layer number="135" name="mtGlue" color="7" fill="1" visible="no" active="no"/>
@@ -122,15 +122,15 @@
 <layer number="141" name="mtRestrict" color="7" fill="1" visible="no" active="no"/>
 <layer number="142" name="mbRestrict" color="7" fill="1" visible="no" active="no"/>
 <layer number="143" name="mvRestrict" color="7" fill="1" visible="no" active="no"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
+<layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="145" name="mHoles" color="7" fill="1" visible="no" active="no"/>
 <layer number="146" name="mMilling" color="7" fill="1" visible="no" active="no"/>
 <layer number="147" name="mMeasures" color="7" fill="1" visible="no" active="no"/>
 <layer number="148" name="mDocument" color="7" fill="1" visible="no" active="no"/>
 <layer number="149" name="mReference" color="7" fill="1" visible="no" active="no"/>
-<layer number="150" name="Notes" color="7" fill="1" visible="no" active="yes"/>
-<layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
-<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="150" name="Notes" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="151" name="HeatSink" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="153" name="FabDoc1" color="6" fill="1" visible="no" active="no"/>
 <layer number="154" name="FabDoc2" color="2" fill="1" visible="no" active="no"/>
 <layer number="155" name="FabDoc3" color="7" fill="15" visible="no" active="no"/>
@@ -140,24 +140,24 @@
 <layer number="194" name="mSymbols" color="7" fill="1" visible="no" active="no"/>
 <layer number="195" name="mNames" color="7" fill="1" visible="no" active="no"/>
 <layer number="196" name="mValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="yes"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="200" name="200bmp" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="201" name="201bmp" color="2" fill="1" visible="no" active="no"/>
 <layer number="202" name="202bmp" color="3" fill="1" visible="no" active="no"/>
-<layer number="203" name="203bmp" color="4" fill="10" visible="no" active="yes"/>
-<layer number="204" name="204bmp" color="5" fill="10" visible="no" active="yes"/>
-<layer number="205" name="205bmp" color="6" fill="10" visible="no" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="10" visible="no" active="yes"/>
-<layer number="207" name="207bmp" color="8" fill="10" visible="no" active="yes"/>
-<layer number="208" name="208bmp" color="9" fill="10" visible="no" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="216" name="216bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="203" name="203bmp" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="204" name="204bmp" color="5" fill="10" visible="yes" active="yes"/>
+<layer number="205" name="205bmp" color="6" fill="10" visible="yes" active="yes"/>
+<layer number="206" name="206bmp" color="7" fill="10" visible="yes" active="yes"/>
+<layer number="207" name="207bmp" color="8" fill="10" visible="yes" active="yes"/>
+<layer number="208" name="208bmp" color="9" fill="10" visible="yes" active="yes"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
 <layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
 <layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
@@ -166,21 +166,21 @@
 <layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
 <layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
-<layer number="225" name="225bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="226" name="226bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="227" name="227bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="228" name="228bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="229" name="229bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="230" name="230bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="225" name="225bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="226" name="226bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="227" name="227bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="228" name="228bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="229" name="229bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="230" name="230bmp" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="231" name="Eagle3D_PG1" color="7" fill="1" visible="no" active="no"/>
 <layer number="232" name="Eagle3D_PG2" color="7" fill="1" visible="no" active="no"/>
 <layer number="233" name="Eagle3D_PG3" color="7" fill="1" visible="no" active="no"/>
-<layer number="248" name="Housing" color="7" fill="1" visible="no" active="yes"/>
-<layer number="249" name="Edge" color="7" fill="1" visible="no" active="yes"/>
+<layer number="248" name="Housing" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="249" name="Edge" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="250" name="Descript" color="7" fill="1" visible="no" active="no"/>
 <layer number="251" name="SMDround" color="7" fill="1" visible="no" active="no"/>
-<layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
-<layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
+<layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
 <plain>
@@ -2461,7 +2461,7 @@ design rules under a new name.</description>
 </autorouter>
 <elements>
 <element name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value="1uF" x="-3.26150625" y="43.347040625" smashed="yes" rot="MR0">
-<attribute name="NAME" x="-2.26150625" y="44.222040625" size="1.016" layer="26" rot="MR0"/>
+<attribute name="NAME" x="0.802775" y="43.993615625" size="1.016" layer="26" rot="MR0"/>
 <attribute name="POPULARITY" value="52" x="-65.49150625" y="-51.902959375" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="-65.49150625" y="-51.902959375" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VALUE" x="-2.26150625" y="41.447040625" size="1.016" layer="28" rot="MR0"/>
@@ -2473,7 +2473,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="52.2888" y="14.08355625" size="1.016" layer="27" rot="R180"/>
 </element>
 <element name="C12" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value="1uF" x="-3.253059375" y="45.9554125" smashed="yes" rot="MR0">
-<attribute name="NAME" x="-2.253059375" y="46.8304125" size="1.016" layer="26" rot="MR0"/>
+<attribute name="NAME" x="1.17284375" y="46.202240625" size="1.016" layer="26" rot="MR0"/>
 <attribute name="POPULARITY" value="52" x="-61.673059375" y="-49.2945875" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="-61.673059375" y="-49.2945875" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VALUE" x="-2.253059375" y="44.0554125" size="1.016" layer="28" rot="MR0"/>
@@ -2539,7 +2539,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="-2.2506" y="46.30756875" size="1.016" layer="28" rot="MR0"/>
 </element>
 <element name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value="1uF" x="-3.24531875" y="41.0093875" smashed="yes" rot="MR0">
-<attribute name="NAME" x="-2.24531875" y="41.8843875" size="1.016" layer="26" rot="MR0"/>
+<attribute name="NAME" x="0.6324375" y="41.1534" size="1.016" layer="26" rot="MR0"/>
 <attribute name="POPULARITY" value="52" x="-73.09531875" y="-54.2406125" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="-73.09531875" y="-54.2406125" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VALUE" x="-2.24531875" y="39.1093875" size="1.016" layer="28" rot="MR0"/>
@@ -2559,7 +2559,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="0805 Lumex" x="-56.45205" y="143.806484375" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE" value="None" x="-56.45205" y="143.806484375" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda" x="-56.45205" y="143.806484375" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="26.54795" y="50.421484375" size="0.8" layer="27" rot="R180"/>
 </element>
 <element name="D2" library="US1M-13" package="DIOM5226X240N" value="US1M-13" x="13.83971875" y="11.903046875" smashed="yes" rot="R270">
 <attribute name="AVAILABILITY" value="In Stock" x="-56.01028125" y="-54.136953125" size="1.778" layer="27" rot="R270" display="off"/>
@@ -2570,7 +2569,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="DO-214AC-214 Diodes Incorporated" x="-56.01028125" y="-54.136953125" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PRICE" value="None" x="-56.01028125" y="-54.136953125" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/US1M-13/?ref=eda" x="-56.01028125" y="-54.136953125" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="9.83971875" y="15.903046875" size="1.778" layer="27" rot="R270"/>
 </element>
 <element name="D3" library="US1M-13" package="DIOM5226X240N" value="US1M-13" x="10.34909375" y="11.966840625" smashed="yes" rot="R270">
 <attribute name="AVAILABILITY" value="In Stock" x="-59.50090625" y="-66.773159375" size="1.778" layer="27" rot="R270" display="off"/>
@@ -2581,7 +2579,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="DO-214AC-214 Diodes Incorporated" x="-59.50090625" y="-66.773159375" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PRICE" value="None" x="-59.50090625" y="-66.773159375" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/US1M-13/?ref=eda" x="-59.50090625" y="-66.773159375" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="6.34909375" y="15.966840625" size="1.778" layer="27" rot="R270"/>
 </element>
 <element name="D4" library="US1M-13" package="DIOM5226X240N" value="US1M-13" x="6.84955" y="11.883971875" smashed="yes" rot="R270">
 <attribute name="AVAILABILITY" value="In Stock" x="-63.00045" y="-79.556028125" size="1.778" layer="27" rot="R270" display="off"/>
@@ -2592,7 +2589,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="DO-214AC-214 Diodes Incorporated" x="-63.00045" y="-79.556028125" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PRICE" value="None" x="-63.00045" y="-79.556028125" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/US1M-13/?ref=eda" x="-63.00045" y="-79.556028125" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="2.84955" y="15.883971875" size="1.778" layer="27" rot="R270"/>
 </element>
 <element name="D5" library="1N5819HW-7" package="SOD3715X145N" value="1N5819HW-7" x="1.65030625" y="27.0914125" smashed="yes" rot="MR0">
 <attribute name="AVAILABILITY" value="In Stock" x="-14.85969375" y="-74.5085875" size="1.778" layer="28" rot="MR0" display="off"/>
@@ -2603,7 +2599,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="SOD-123 Fairchild Semiconductor" x="-14.85969375" y="-74.5085875" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="PRICE" value="None" x="-14.85969375" y="-74.5085875" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/1N5819HW-7/?ref=eda" x="-14.85969375" y="-74.5085875" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="VALUE" x="4.151615625" y="25.34049375" size="0.60991875" layer="28" rot="MR0"/>
 </element>
 <element name="D6" library="SML-LXT0805IW-TR" package="LEDC2012X120N" value="SML-LXT0805IW-TR" x="24.828434375" y="46.317896875" smashed="yes" rot="R180">
 <attribute name="AVAILABILITY" value="In Stock" x="-69.151565625" y="141.567896875" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2614,7 +2609,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="0805 Lumex" x="-69.151565625" y="141.567896875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE" value="None" x="-69.151565625" y="141.567896875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda" x="-69.151565625" y="141.567896875" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="26.548434375" y="48.182896875" size="0.8" layer="27" rot="R180"/>
 </element>
 <element name="D9" library="1N5819HW-7" package="SOD3715X145N" value="1N5819HW-7" x="1.6542125" y="24.648225" smashed="yes" rot="MR0">
 <attribute name="AVAILABILITY" value="In Stock" x="-21.2057875" y="-76.951775" size="1.778" layer="28" rot="MR0" display="off"/>
@@ -2625,7 +2619,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="SOD-123 Fairchild Semiconductor" x="-21.2057875" y="-76.951775" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="PRICE" value="None" x="-21.2057875" y="-76.951775" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/1N5819HW-7/?ref=eda" x="-21.2057875" y="-76.951775" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="VALUE" x="4.155521875" y="22.89730625" size="0.60991875" layer="28" rot="MR0"/>
 </element>
 <element name="FUSE-KOTAK1" library="FUSE-KOTAK" package="FUSE-KOTAK" value="" x="12.498690625" y="18.6183625" smashed="yes" rot="R180"/>
 <element name="GND-MK7" library="Ai_Connectors" package="1X02-SJ-NO" value="1X02-SJ-NO" x="13.276153125" y="44.759028125" smashed="yes" rot="MR270">
@@ -2649,7 +2642,6 @@ design rules under a new name.</description>
 <attribute name="ROHS_COMPLIANT" value="COMPLIANT" x="7.82445625" y="120.937028125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="SUB_CATEGORY" value="USB" x="7.82445625" y="120.937028125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="TYPE" value="USB-micro B" x="7.82445625" y="120.937028125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="35.76445625" y="59.557028125" size="1.27" layer="27" rot="R180" align="center"/>
 <attribute name="VOLTAGE-RATING" value="100VAC" x="7.82445625" y="120.937028125" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J5" library="RJ45-8N-B" package="TE_RJ45-8N-B" value="RJ45-8N-B" x="17.10636875" y="61.290878125" smashed="yes" rot="R180">
@@ -2661,7 +2653,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="None" x="-59.09363125" y="71.450878125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE" value="None" x="-59.09363125" y="71.450878125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/RJ45-8N-B/?ref=eda" x="-59.09363125" y="71.450878125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="26.129728125" y="70.0441375" size="1.27046875" layer="27" rot="R180"/>
 </element>
 <element name="K1" library="G3MB202PDC12" package="RELAY_G3MB202PDC12" value="G3MB202PDC12" x="31.098471875" y="32.619615625" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="In Stock" x="89.518471875" y="78.339615625" size="1.778" layer="27" rot="R90" display="off"/>
@@ -2672,7 +2663,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="SIP-4 Omron Automation" x="89.518471875" y="78.339615625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PRICE" value="None" x="89.518471875" y="78.339615625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/G3MB-202P-DC12/?ref=eda" x="89.518471875" y="78.339615625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="35.863003125" y="19.830615625" size="1.27388125" layer="27" rot="R90"/>
 </element>
 <element name="K2" library="G3MB202PDC12" package="RELAY_G3MB202PDC12" value="G3MB202PDC12" x="23.859425" y="32.57775625" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="In Stock" x="82.279425" y="104.96775625" size="1.778" layer="27" rot="R90" display="off"/>
@@ -2683,7 +2673,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="SIP-4 Omron Automation" x="82.279425" y="104.96775625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PRICE" value="None" x="82.279425" y="104.96775625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/G3MB-202P-DC12/?ref=eda" x="82.279425" y="104.96775625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="28.62395625" y="19.78875625" size="1.27388125" layer="27" rot="R90"/>
 </element>
 <element name="K4" library="G3MB202PDC12" package="RELAY_G3MB202PDC12" value="G3MB202PDC12" x="38.267253125" y="32.60964375" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="In Stock" x="108.117253125" y="58.00964375" size="1.778" layer="27" rot="R90" display="off"/>
@@ -2694,7 +2683,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="SIP-4 Omron Automation" x="108.117253125" y="58.00964375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PRICE" value="None" x="108.117253125" y="58.00964375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/G3MB-202P-DC12/?ref=eda" x="108.117253125" y="58.00964375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="43.031784375" y="19.82064375" size="1.27388125" layer="27" rot="R90"/>
 </element>
 <element name="MD1" library="Espressif Systems - ESP32-WROOM-32U (16MB)" package="ESPRESSIF_SYSTEMS_ESP32-WROOM-32U_16MB_0" value="ESPRESSIF_SYSTEMS_ESP32-WROOM-32U_16MBESPRESSIF_SYSTEMS_ESP32-WROOM-32U_16MB_0_0" x="54.387403125" y="30.335978125" smashed="yes">
 <attribute name="AUTOMOTIVE" value="No" x="77.247403125" y="-10.304021875" size="1.778" layer="27" display="off"/>
@@ -2734,38 +2722,30 @@ design rules under a new name.</description>
 </element>
 <element name="POWER" library="led" library_urn="urn:adsk.eagle:library:259" package="LED3MM" package3d_urn="urn:adsk.eagle:package:15797/1" value="TLLY4400" x="74.818090625" y="46.19925625" smashed="yes">
 <attribute name="MF" value="VISHAY SEMICONDUCTOR" x="126.888090625" y="-54.13074375" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="76.723090625" y="46.58025625" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="79.205803125" y="43.119246875" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="OC_FARNELL" value="1612439" x="126.888090625" y="-54.13074375" size="1.778" layer="27" display="off"/>
 <attribute name="POPULARITY" value="2" x="126.888090625" y="-54.13074375" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="76.723090625" y="44.54825625" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="POWER1" library="led" library_urn="urn:adsk.eagle:library:259" package="LED3MM" package3d_urn="urn:adsk.eagle:package:15797/1" value="TLLY4400" x="54.265525" y="17.10096875" smashed="yes" rot="R180">
 <attribute name="MF" value="VISHAY SEMICONDUCTOR" x="-11.774475" y="117.43096875" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="52.360525" y="16.71996875" size="1.27" layer="25" ratio="10" rot="R180"/>
 <attribute name="OC_FARNELL" value="1612439" x="-11.774475" y="117.43096875" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="POPULARITY" value="2" x="-11.774475" y="117.43096875" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="52.360525" y="18.75196875" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="POWER2" library="led" library_urn="urn:adsk.eagle:library:259" package="LED3MM" package3d_urn="urn:adsk.eagle:package:15797/1" value="TLLY4400" x="43.256790625" y="17.755453125" smashed="yes" rot="R180">
 <attribute name="MF" value="VISHAY SEMICONDUCTOR" x="-36.753209375" y="118.085453125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="41.351790625" y="17.374453125" size="1.27" layer="25" ratio="10" rot="R180"/>
 <attribute name="OC_FARNELL" value="1612439" x="-36.753209375" y="118.085453125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="POPULARITY" value="2" x="-36.753209375" y="118.085453125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="41.351790625" y="19.406453125" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="POWER3" library="led" library_urn="urn:adsk.eagle:library:259" package="LED3MM" package3d_urn="urn:adsk.eagle:package:15797/1" value="TLLY4400" x="31.458009375" y="17.814065625" smashed="yes" rot="R180">
 <attribute name="MF" value="VISHAY SEMICONDUCTOR" x="-62.521990625" y="118.144065625" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="29.553009375" y="17.433065625" size="1.27" layer="25" ratio="10" rot="R180"/>
 <attribute name="OC_FARNELL" value="1612439" x="-62.521990625" y="118.144065625" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="POPULARITY" value="2" x="-62.521990625" y="118.144065625" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="29.553009375" y="19.465065625" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="PROSES" library="led" library_urn="urn:adsk.eagle:library:259" package="LED3MM" package3d_urn="urn:adsk.eagle:package:15797/1" value="TLLY4400" x="74.818090625" y="37.308440625" smashed="yes">
 <attribute name="MF" value="VISHAY SEMICONDUCTOR" x="98.948090625" y="-69.371559375" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="76.723090625" y="37.689440625" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="79.328296875" y="33.8376" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="OC_FARNELL" value="1612439" x="98.948090625" y="-69.371559375" size="1.778" layer="27" display="off"/>
 <attribute name="POPULARITY" value="2" x="98.948090625" y="-69.371559375" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="76.723090625" y="35.657440625" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="PS2" library="LD05-23B05R2" package="CONV_LD05-23B05R2" value="LD05-23B05R2" x="6.53166875" y="34.7557125" smashed="yes" rot="R180">
 <attribute name="AVAILABILITY" value="In Stock" x="-20.13833125" y="49.9957125" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2776,7 +2756,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="CUSTOM-4 MORNSUN" x="-20.13833125" y="49.9957125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE" value="None" x="-20.13833125" y="49.9957125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/LD05-23B05R2/?ref=eda" x="-20.13833125" y="49.9957125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="19.23166875" y="47.7557125" size="1.27" layer="27" rot="R180" align="top-left"/>
 </element>
 <element name="Q1" library="MMBT3904" package="SOT95P240X120-3N" value="MMBT3904" x="53.637996875" y="46.010671875" smashed="yes" rot="MR180">
 <attribute name="AVAILABILITY" value="Not in stock" x="142.537996875" y="126.020671875" size="1.778" layer="28" rot="MR180" display="off"/>
@@ -2786,7 +2765,6 @@ design rules under a new name.</description>
 <attribute name="NAME" x="51.430128125" y="43.702671875" size="0.813859375" layer="26" rot="MR180"/>
 <attribute name="PACKAGE" value="SOT-23 ON" x="142.537996875" y="126.020671875" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="PRICE" value="None" x="142.537996875" y="126.020671875" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="VALUE" x="51.429546875" y="49.190640625" size="0.814071875" layer="28" rot="MR180"/>
 </element>
 <element name="Q2" library="MMBT3904" package="SOT95P240X120-3N" value="MMBT3904" x="58.747521875" y="45.9252875" smashed="yes" rot="MR180">
 <attribute name="AVAILABILITY" value="Not in stock" x="155.267521875" y="125.9352875" size="1.778" layer="28" rot="MR180" display="off"/>
@@ -2796,7 +2774,6 @@ design rules under a new name.</description>
 <attribute name="NAME" x="56.539653125" y="43.6172875" size="0.813859375" layer="26" rot="MR180"/>
 <attribute name="PACKAGE" value="SOT-23 ON" x="155.267521875" y="125.9352875" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="PRICE" value="None" x="155.267521875" y="125.9352875" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="VALUE" x="56.539071875" y="49.10525625" size="0.814071875" layer="28" rot="MR180"/>
 </element>
 <element name="Q3" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="SM49" package3d_urn="urn:adsk.eagle:package:6240914/1" value="12MHz" x="28.85211875" y="52.512071875" smashed="yes" rot="R270">
 <attribute name="MF" value="" x="-51.15788125" y="32.192071875" size="1.778" layer="27" rot="R270" display="off"/>
@@ -2811,22 +2788,20 @@ design rules under a new name.</description>
 <attribute name="DESCRIPTION" value=" Bipolar Transistors - BJT NPN/40V/1.5A " x="-3.682603125" y="97.21115625" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="ON Semiconductor / Fairchild" x="-3.682603125" y="97.21115625" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MP" value="SS8550" x="-3.682603125" y="97.21115625" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="61.087396875" y="14.40715625" size="1.27" layer="25" rot="R180" align="center"/>
+<attribute name="NAME" x="61.64246875" y="19.020015625" size="1.27" layer="25" rot="R180" align="center"/>
 <attribute name="PACKAGE" value="SOT-23 ON Semiconductor / Fairchild" x="-3.682603125" y="97.21115625" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE" value="None" x="-3.682603125" y="97.21115625" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SS8550/?ref=eda" x="-3.682603125" y="97.21115625" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="61.087396875" y="19.86815625" size="1.27" layer="27" rot="R180" align="center"/>
 </element>
 <element name="Q5" library="SS8550" package="SOT-23_BEC" value="SS8550" x="50.17138125" y="15.574884375" smashed="yes" rot="R180">
 <attribute name="AVAILABILITY" value="In Stock" x="-22.21861875" y="95.584884375" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="DESCRIPTION" value=" Bipolar Transistors - BJT NPN/40V/1.5A " x="-22.21861875" y="95.584884375" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="ON Semiconductor / Fairchild" x="-22.21861875" y="95.584884375" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MP" value="SS8550" x="-22.21861875" y="95.584884375" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="50.17138125" y="12.780884375" size="1.27" layer="25" rot="R180" align="center"/>
+<attribute name="NAME" x="50.765215625" y="18.903325" size="1.27" layer="25" rot="R180" align="center"/>
 <attribute name="PACKAGE" value="SOT-23 ON Semiconductor / Fairchild" x="-22.21861875" y="95.584884375" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE" value="None" x="-22.21861875" y="95.584884375" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SS8550/?ref=eda" x="-22.21861875" y="95.584884375" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="50.17138125" y="18.241884375" size="1.27" layer="27" rot="R180" align="center"/>
 </element>
 <element name="Q6" library="SS8550" package="SOT-23_BEC" value="SS8550" x="38.714834375" y="17.86273125" smashed="yes" rot="R180">
 <attribute name="AVAILABILITY" value="In Stock" x="-41.295165625" y="97.87273125" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2837,7 +2812,6 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="SOT-23 ON Semiconductor / Fairchild" x="-41.295165625" y="97.87273125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE" value="None" x="-41.295165625" y="97.87273125" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SS8550/?ref=eda" x="-41.295165625" y="97.87273125" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="38.714834375" y="20.52973125" size="1.27" layer="27" rot="R180" align="center"/>
 </element>
 <element name="R1" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="M0805" package3d_urn="urn:adsk.eagle:package:6240587/1" value="10K" x="56.251075" y="51.78358125" smashed="yes" rot="MR0">
 <attribute name="NAME" x="57.267075" y="52.79958125" size="1.27" layer="26" rot="MR0"/>
@@ -2908,7 +2882,7 @@ design rules under a new name.</description>
 <element name="S1" library="switch-omron" library_urn="urn:adsk.eagle:library:377" package="B3F-31XX" package3d_urn="urn:adsk.eagle:package:27487/1" value="" x="61.49493125" y="10.516390625" smashed="yes">
 <attribute name="MF" value="" x="94.51493125" y="-69.493609375" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="B3F-3100" x="94.51493125" y="-69.493609375" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="58.95493125" y="13.056390625" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="57.527609375" y="11.404221875" size="1.27" layer="25" ratio="10"/>
 <attribute name="OC_FARNELL" value="959704" x="94.51493125" y="-69.493609375" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="36M3582" x="94.51493125" y="-69.493609375" size="1.778" layer="27" display="off"/>
 <attribute name="POPULARITY" value="0" x="94.51493125" y="-69.493609375" size="1.778" layer="27" display="off"/>
@@ -2917,7 +2891,7 @@ design rules under a new name.</description>
 <element name="S2" library="switch-omron" library_urn="urn:adsk.eagle:library:377" package="B3F-31XX" package3d_urn="urn:adsk.eagle:package:27487/1" value="" x="51.295178125" y="10.317396875" smashed="yes">
 <attribute name="MF" value="" x="94.475178125" y="-69.692603125" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="B3F-3100" x="94.475178125" y="-69.692603125" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="48.755178125" y="12.857396875" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="46.81379375" y="11.235409375" size="1.27" layer="25" ratio="10"/>
 <attribute name="OC_FARNELL" value="959704" x="94.475178125" y="-69.692603125" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="36M3582" x="94.475178125" y="-69.692603125" size="1.778" layer="27" display="off"/>
 <attribute name="POPULARITY" value="0" x="94.475178125" y="-69.692603125" size="1.778" layer="27" display="off"/>
@@ -2950,14 +2924,12 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="SOIC-16 Maxim Integrated" x="-29.49903125" y="133.758621875" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="PRICE" value="None" x="-29.49903125" y="133.758621875" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MAX232CSE/?ref=eda" x="-29.49903125" y="133.758621875" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="VALUE" x="3.36396875" y="34.538621875" size="1.27" layer="28" rot="MR90" align="top-left"/>
 </element>
 <element name="WARNING" library="led" library_urn="urn:adsk.eagle:library:259" package="LED3MM" package3d_urn="urn:adsk.eagle:package:15797/1" value="TLLY4400" x="74.818090625" y="27.148440625" smashed="yes">
 <attribute name="MF" value="VISHAY SEMICONDUCTOR" x="112.918090625" y="-73.181559375" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="76.723090625" y="27.529440625" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="79.45620625" y="22.462934375" size="1.27" layer="25" ratio="10" rot="R90"/>
 <attribute name="OC_FARNELL" value="1612439" x="112.918090625" y="-73.181559375" size="1.778" layer="27" display="off"/>
 <attribute name="POPULARITY" value="2" x="112.918090625" y="-73.181559375" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="76.723090625" y="25.497440625" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="X1" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" package="MSTBA2" package3d_urn="urn:adsk.eagle:package:9615/1" value="MSTBA2" x="22.55678125" y="7.81625625" smashed="yes">
 <attribute name="MF" value="FARNELL" x="61.92678125" y="-27.74374375" size="1.778" layer="27" display="off"/>
@@ -2966,7 +2938,6 @@ design rules under a new name.</description>
 <attribute name="OC_FARNELL" value="3705171" x="61.92678125" y="-27.74374375" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="71C4161" x="61.92678125" y="-27.74374375" size="1.778" layer="27" display="off"/>
 <attribute name="POPULARITY" value="11" x="61.92678125" y="-27.74374375" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="17.47678125" y="7.81625625" size="1.778" layer="27" ratio="10"/>
 </element>
 <element name="X5" library="con-phoenix-508" library_urn="urn:adsk.eagle:library:176" package="MSTBA3" package3d_urn="urn:adsk.eagle:package:9608/1" value="MSTBA3" x="37.254234375" y="7.795259375" smashed="yes">
 <attribute name="MF" value="FARNELL" x="37.254234375" y="7.795259375" size="1.778" layer="27" display="off"/>
@@ -2975,7 +2946,6 @@ design rules under a new name.</description>
 <attribute name="OC_FARNELL" value="3705183" x="37.254234375" y="7.795259375" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="71C4162" x="37.254234375" y="7.795259375" size="1.778" layer="27" display="off"/>
 <attribute name="POPULARITY" value="3" x="37.254234375" y="7.795259375" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="29.634234375" y="7.795259375" size="1.778" layer="27" ratio="10"/>
 </element>
 </elements>
 <signals>
@@ -3704,10 +3674,8 @@ design rules under a new name.</description>
 <wire x1="40.509671875" y1="64.019428125" x2="40.509671875" y2="59.49530625" width="0.2032" layer="16"/>
 <wire x1="39.562646875" y1="58.54828125" x2="20.9020625" y2="58.54828125" width="0.2032" layer="16"/>
 <wire x1="20.9020625" y1="58.54828125" x2="19.23113125" y2="60.2192125" width="0.2032" layer="16"/>
-<wire x1="19.23113125" y1="60.2192125" x2="16.758565625" y2="60.2192125" width="0.2032" layer="16"/>
-<wire x1="16.758565625" y1="60.2192125" x2="15.727265625" y2="59.1879125" width="0.2032" layer="16"/>
-<wire x1="15.727265625" y1="59.1879125" x2="15.727265625" y2="58.50319375" width="0.2032" layer="16"/>
-<wire x1="15.727265625" y1="58.50319375" x2="15.184275" y2="57.960203125" width="0.2032" layer="16"/>
+<wire x1="19.23113125" y1="60.2192125" x2="17.443284375" y2="60.2192125" width="0.2032" layer="16"/>
+<wire x1="17.443284375" y1="60.2192125" x2="15.184275" y2="57.960203125" width="0.2032" layer="16"/>
 <wire x1="15.184275" y1="57.960203125" x2="5.1144125" y2="57.960203125" width="0.2032" layer="16"/>
 <wire x1="5.1144125" y1="57.960203125" x2="4.856696875" y2="57.7024875" width="0.2032" layer="16"/>
 <wire x1="4.856696875" y1="57.7024875" x2="4.87275625" y2="57.686428125" width="0.2032" layer="16"/>
